@@ -1,0 +1,42 @@
+
+t
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñËüŞıÿÿÿÿ
+K
+java:S3740©"/Provide the parametrized type for this generic.(¤íé®üÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(â”õ™
+]	java:S899â"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+]
+java:S1128"@Remove this unused import 'java.security.spec.PSSParameterSpec'.(ŠñÂÕ8ØÏˆü/
+\
+java:S1128":Remove this unused import 'org.omg.CORBA.UShortSeqHelper'.(Ìğ¢Áùÿÿÿÿ8ØÏˆü/
+O	java:S106¢"9Replace this use of System.out or System.err by a logger.(‚ì¨Ï
+d	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎîŸˆ
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(ä„ÈØûÿÿÿÿ
+T
+java:S1197"8Move the array designator from the variable to the type.(ÊÉáüÿÿÿÿ
+Q
+java:S1117"5Rename "x" which hides the field declared at line 72.(ÊÉáüÿÿÿÿ
+N	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ôñ²F
+W	java:S125”"<This block of commented-out lines of code should be removed.(²‹ø—ıÿÿÿÿ
+N
+java:S1197·"8Move the array designator from the variable to the type.(ìÎ
+N
+java:S1197"8Move the array designator from the variable to the type.(ìÜÈ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(ÀÉ¯û
+o
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(…‘µ
+Q	java:S125Ú"<This block of commented-out lines of code should be removed.(‡¢‰K
+K
+java:S3740§"/Provide the parametrized type for this generic.(Àû£öÿÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+R	java:S125"<This block of commented-out lines of code should be removed.(ó¹†¿
+W	java:S125´"<This block of commented-out lines of code should be removed.(† Øèûÿÿÿÿ
+O
+java:S1197Ë"8Move the array designator from the variable to the type.(áíÃ¾
+W	java:S107Ñ"AConstructor has 8 parameters, which is greater than 7 authorized.(ç÷ô‰
+N
+java:S1197"8Move the array designator from the variable to the type.(€’ÁÙ
+i
+java:S1104_"SMake fitness a static final constant or non-public and provide accessors if needed.(úè±

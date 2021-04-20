@@ -147,6 +147,8 @@ public class AntColonyAlgorithm {
             fitness += citys[x[x.length - 1]][x[0]];
 //            System.out.println(fitness);
             return fitness;
+
+
         }
 
         /**
