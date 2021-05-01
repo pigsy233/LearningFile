@@ -1,0 +1,18 @@
+
+j	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ìÏ8ËÀë¹’/
+]	java:S125'"<This block of commented-out lines of code should be removed.(™†¹ÿøÿÿÿÿ8¶‰–¾’/
+k	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶èÅ¦8ËÀë¹’/
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(šä÷±8ËÀë¹’/
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(î´ªşÿÿÿÿ8ËÀë¹’/
+v
+java:S3012c"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(İ±Öø8ËÀë¹’/
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8šƒØ¾’/
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8«œÕ¾’/
+0
+java:S1220""Move this file to a named package.
+l
+java:S3973$"JUse indentation to denote the code conditionally executed by this "while".(ØÈÒùÿÿÿÿ8¾çÚ¾’/
+
+java:S2681B"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(€ıŞ™ıÿÿÿÿ8¾çÚ¾’/
