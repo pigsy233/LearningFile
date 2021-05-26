@@ -1,17 +1,17 @@
 
-;
-java:S2119F"Save and re-use this "Random".(–áÍÈ8µÀ¾’/
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8µÀ¾’/
+j	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íñâš8µÀ¾’/
 V
 java:S3518C"9Make sure "sum" can't be zero before doing this division.(¡„Â½8µÀ¾’/
-r
-java:S1104"PMake tour a static final constant or non-public and provide accessors if needed.(ÕÀÛÔşÿÿÿÿ8ƒ±¢¹’/
 0
 java:S1220""Move this file to a named package.
 ;
 java:S2119%"Save and re-use this "Random".(–áÍÈ8Äù¬¹’/
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡É›Ğùÿÿÿÿ8ƒ±¢¹’/
 o	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À…î¡ıÿÿÿÿ8ƒ±¢¹’/
+r
+java:S1104"PMake tour a static final constant or non-public and provide accessors if needed.(ÕÀÛÔşÿÿÿÿ8ƒ±¢¹’/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡É›Ğùÿÿÿÿ8ƒ±¢¹’/
+;
+java:S2119F"Save and re-use this "Random".(–áÍÈ8µÀ¾’/
 p
 java:S1104"SMake fitness a static final constant or non-public and provide accessors if needed.(ìĞÜÆ8û˜¶¾’/
-j	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íñâš8µÀ¾’/
-Z	java:S106S"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8µÀ¾’/

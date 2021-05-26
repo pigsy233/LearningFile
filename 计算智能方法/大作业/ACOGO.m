@@ -5,8 +5,8 @@ n = 50;%物品数量
 V = 1000;%背包最大装载重量
 u = [80 82 85 70 72 70 66 50 55 25 50 55 40 48 50 32 22 60 30 32 40 38 35 32 25 28 30 22 25 30 45 30 60 50 20 65 20 25 30 10 20 25 15 10 10 10 4 4 2 1]; %重量
 p = [220 208 198 192 180 180 165 162 160 15 8 155 130 125 122 120 118 115 110 105 101 100 100 98 9 6 95 90 88 82 80 77 75 73 72 70 69 66 65 63 60 58 56 5 0 30 20 15 10 8 5 3 1 ];%价值
-Alpha = 0.3;
-Beta = 0.7;
+Alpha = 3;
+Beta = 3;
 iter_max = 200;%最大迭代次数
 m = 10;%蚂蚁数量
 Rho = 0.90;%信息素蒸发速率
@@ -173,6 +173,15 @@ while iter <= iter_max
         end
         GO_Table(i+2) = Route(i);
     end
+    GO_Value = zeros(5,1);
+    for i = 1:5
+        Route = GO_Table(i,:);
+        for j = 1:n
+            if Route(j) > 0
+                GO_Value(i) = GO_Value(i) + p(Route(j));
+            end
+        end
+    end
 
     %更新信息素矩阵
     Delta_Tau = zeros(n,n);
@@ -188,7 +197,7 @@ while iter <= iter_max
     for i = 1:5
         for j = 1:(n-1)
             if GO_Table(i,j) > 0 && GO_Table(i,j+1)>0
-                Delta_Tau(GO_Table(i,j),GO_Table(i,j+1)) = Delta_Tau(GO_Table(i,j),GO_Table(i,j+1)) + 1/Value(i);
+                Delta_Tau(GO_Table(i,j),GO_Table(i,j+1)) = Delta_Tau(GO_Table(i,j),GO_Table(i,j+1)) + 1/GO_Value(i);
             end
         end
     end
