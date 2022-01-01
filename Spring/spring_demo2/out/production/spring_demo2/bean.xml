@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="student" class="spring5.collectiontype.Student">
+        <property name="data" value="10"></property>
+        <property name="courses">
+            <array><!--list也可-->
+                <value>java</value>
+                <value>数据库</value>
+            </array>
+        </property>
+        <property name="list">
+            <list>
+                <value>鳖</value>
+                <value>王八</value>
+                <value>乌龟</value>
+            </list>
+        </property>
+        <property name="maps">
+            <map>
+                <entry key="Java" value="java"></entry>
+                <entry key="C#" value="C#"></entry>
+            </map>
+        </property>
+        <property name="set">
+            <set>
+                <value>1</value>
+                <value>3</value>
+            </set>
+        </property>
+        <property name="coursesList">
+            <list>
+                <ref bean="course1"></ref>
+                <ref bean="course2"></ref>
+            </list>
+        </property>
+    </bean>
+    <bean id="course1" class="spring5.collectiontype.Course">
+        <property name="name" value="Java"></property>
+    </bean>
+    <bean id="course2" class="spring5.collectiontype.Course">
+        <property name="name" value="JDBC"></property>
+    </bean>
+</beans>

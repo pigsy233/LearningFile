@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="emp" class="creature.firm.Employee">
+        <property name="ename" value="pigsy"></property>
+        <property name="gender" value="female"></property>
+        <!--内部bean方式进行配置-->
+        <property name="department">
+            <bean id="dep" class="creature.firm.Department">
+                <property name="dname" value="饲料课"></property>
+            </bean>
+        </property>
+
+    </bean>
+</beans>

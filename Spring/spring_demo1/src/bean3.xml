@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--外部bean方式创建对象，并赋值，通过ref引用
+    <bean id="emp" class="creature.firm.Employee">
+        <property name="ename" value="dogsy"></property>
+        <property name="gender" value="male"></property>
+        <property name="department" ref="dept"></property>
+    </bean>
+    <bean id="dept" class="creature.firm.Department">
+        <property name="dname" value="垃圾场"></property>
+    </bean>
+    -->
+    <bean id="emp" class="creature.firm.Employee">
+        <property name="gender" value="male"></property>
+        <property name="ename" value="monkey"></property>
+        <property name="department" ref="dept"></property>
+        <property name="department.dname" value="狗粮"></property>
+    </bean>
+    <bean id="dept" class="creature.firm.Department">
+        <property name="dname" value="猪食"></property>
+    </bean>
+</beans>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="orders" class="spring5.bean.Orders" scope="singleton" init-method="initMethod" destroy-method="destroyMethod">
+        <property name="oName" value="wangba"></property>
+    </bean>
+
+    <!--配置后置处理器  会为当前配置文件的所有实例添加后置处理器（只要该类impl了BeanPostProcessor）-->
+    <bean id="myBeanPost" class="spring5.bean.MyBeanPost"></bean>
+</beans>
