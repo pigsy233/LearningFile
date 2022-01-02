@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--实现自动装配
+        byName 根据属性名称进行注入
+        要求bean的id与实际类的属性名称相同
+        byType 根据属性类型进行注入
+        要求bean的type与实际类的属性类型相同
+    -->
+    <bean id="employee" class="spring5.autowire.Employee" autowire="byName"></bean>
+    <bean id="department" class="spring5.autowire.Department"></bean>
+</beans>
