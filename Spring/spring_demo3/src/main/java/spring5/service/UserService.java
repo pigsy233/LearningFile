@@ -1,15 +1,9 @@
-package spring5.service;
+package main.java.spring5.service;
 
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
+import main.java.spring5.dao.UserDao;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
-import spring5.dao.UserDao;
-
-import javax.inject.Scope;
 
 //在注解中value可不写（默认值为首字母小写）
 @Service(value = "userService")//形同<bean id="userService" class=".."/>

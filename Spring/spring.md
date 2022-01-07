@@ -771,3 +771,88 @@ public class SpringConfig {
 # AOP
 
 不改变源代码就可以增加功能
+
+增强功能大致形式
+
+```java
+public void method1(){
+    super.method1();
+    //增强部分
+}
+```
+
+
+
+## 1.有接口情况
+
+创建接口实现类代理对象
+
+## 2.无接口情况
+
+创建子类的代理对象
+
+## AOP（JDK动态代理）
+
+使用proxy类里的方法创建代理对象
+
+### 1）调用newProxyInstance方法
+
+```java
+static Object newProxyInstance(ClassLoader loader, class<?>[] interfaces, InvocationHandler)
+```
+
+第一参数，类加载器
+
+第二参数，增强方法所在的类这个类实现的接口，支持多个接口
+
+第三参数，实现这个类的InvocationHandler，创建代理对象，写增强的方法
+
+### 2）编写InvocationHandler的子类
+
+编写其中的invoke方法
+
+```java
+class UserDaoImpl implements UserDao{
+
+    private Object obj;
+    public void setObj(Object obj){
+        this.obj = obj;
+    }
+	public Object invoke(Object proxy, Method method, Object[] args){
+	//before
+    Object obj = method.invoke(obj, args);
+	//after
+    }
+}
+```
+
+### AOP操作（准备）
+
+Spring框架一般是基于Aspectj实现AOP操作，Aspectj独立于Spring与AOP框架，一般与Spring一起使用
+
+#### 导入依赖
+
+#### 1）基于xml配置文件实现
+
+#### 2）基于注解方式实现
+
+### 切入点表达式
+
+execution(\[权限修饰符\]\[返回类型\]\[类全路径\]\[方法名称\]\([参数列表\])
+
+#### 对com.atguigu.dao.BookDao类里面的add进行增强
+
+execution(* com.atguigu.dao.BookDao.add(..))
+
+\*代表全部权限 
+
+..代表参数列表
+
+#### 对com.atguigu.dao所有类里面的所有方法进行增强
+
+execution(* com.atguigu.dao.\*.\*(..))
+
+
+
+
+

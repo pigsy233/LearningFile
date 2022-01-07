@@ -1,4 +1,4 @@
-package spring5.config;
+package main.java.spring5.config;
 
 
 import org.springframework.context.annotation.ComponentScan;
