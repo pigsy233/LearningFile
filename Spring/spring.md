@@ -852,7 +852,208 @@ execution(* com.atguigu.dao.BookDao.add(..))
 
 execution(* com.atguigu.dao.\*.\*(..))
 
+## AspectJ注解方式增强
 
+创建两个类
 
+开启**自动扫描**
 
+使用注解创建对象
+
+在增强类上添加注解@Aspect
+
+在spring配置文件中开启生成代理对象/使用注解开启代理对象
+
+在增强类里在作为通知的方法上面添加类型注解，并使用切入点表达式
+
+```java
+@Component
+public class Dog {
+
+    public void bark(){
+        System.out.println("fucking pig............");
+    }
+}
+
+//被UserProxy增强的类
+@Component
+public class User {
+
+    @Autowired
+    private Dog dog;
+
+    public void add(){
+        dog.bark();
+        //int a = 10/0;
+        System.out.println("User add.............");
+    }
+}
+
+//User增强类
+@Component
+@Aspect
+public class UserProxy {
+
+    @Before(value = "execution(* spring5.aopanno.User.add(..))")
+    public void beforeAdd(){
+        System.out.println("before User exec...........");
+    }
+
+    @After(value = "execution(* spring5.aopanno.User.add(..))")
+    public void afterAdd(){
+        System.out.println("after User exec...........");
+    }
+
+    @AfterThrowing(value = "execution(* spring5.aopanno.User.add(..))")
+    public void afterThrowing(){
+        System.out.println("afterThrowing ...................");
+    }
+
+    @AfterReturning(value = "execution(* spring5.aopanno.User.add(..))")
+    public void afterReturning(){
+        System.out.println("afterReturning................");
+    }
+
+    @Around(value = "execution(* spring5.aopanno.User.add(..))")
+    public void around(ProceedingJoinPoint proceedingJoinPoint) throws Throwable {
+        System.out.println("around before User exec");
+
+        proceedingJoinPoint.proceed();
+
+        System.out.println("around after User exec");
+    }
+}
+```
+
+```java
+@Configuration
+@ComponentScan(basePackages = "spring5.aopanno")
+@EnableAspectJAutoProxy(proxyTargetClass = true)//true使用cglib代理，false使用jdk代理
+public class SpringConfig {
+}
+
+```
+
+在未出现异常时，执行顺序如下
+
+```
+around before User exec
+before User exec...........
+fucking pig............
+User add.............
+afterReturning................
+after User exec...........
+around after User exec
+```
+
+出现异常时,执行顺序如下
+
+around before User exec
+before User exec...........
+fucking pig............
+afterThrowing ...................
+after User exec...........
+
+## 细节问题
+
+### 相同的切入点进行抽取
+
+```java
+//User增强类
+@Component
+@Aspect
+public class UserProxy {
+
+    
+    //提取切入点
+    @Pointcut(value = "execution(* spring5.aopanno.User.add(..))")
+    public void pointDemo(){
+
+    }
+
+    
+    //通过方法名调用
+    @Before(value = "pointDemo()")
+    public void beforeAdd(){
+        System.out.println("before User exec...........");
+    }
+}
+```
+
+### 多个增强类对同一个方法进行增强
+
+可设置优先级对执行顺序进行调整（数值越小优先级越高）
+
+```java
+@Component
+@Aspect
+@Order(3)
+public class PersonProxy 
+
+@Component
+@Aspect
+@Order(1)
+public class UserProxy 
+```
+
+## AspectJ配置文件增强
+
+创建两个类
+
+在spring配置文件中创建两个类对象
+
+在spring配置文件中配置切入点
+
+```xml
+    <bean id="user" class="spring5.aopxml.User"></bean>
+    <bean id="userProxy" class="spring5.aopxml.UserProxy"></bean>
+
+    <!--配置aop增强-->
+    <aop:config>
+        <!--配置切入点-->
+        <aop:pointcut id="p" expression="execution(* spring5.aopxml.User.add(..))"/>
+        <!--配置切面-->
+        <aop:aspect ref="userProxy">
+            <aop:before method="beforeAdd" pointcut-ref="p"></aop:before>
+        </aop:aspect>
+    </aop:config>
+```
+
+# JdbcTemplate
+
+Spring对JDBC进行封装，使用JdbcTemplate方便实现对数据库的操作
+
+导入依赖
+
+```xml
+        <dependency>
+            <groupId>com.github.spt-oss</groupId>
+            <artifactId>mysql-connector-java-plus</artifactId>
+            <version>0.1.0</version>
+        </dependency>    
+		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.27</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-jdbc</artifactId>
+            <version>5.3.14</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.alibaba/druid -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>1.2.8</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-tx -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-tx</artifactId>
+            <version>5.2.19.RELEASE</version>
+        </dependency>
+```
 

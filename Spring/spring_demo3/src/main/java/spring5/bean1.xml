@@ -9,7 +9,7 @@
         或输入上级包
     -->
 
-    <context:component-scan base-package="spring5.dao,spring5.service"></context:component-scan>
+<!--    <context:component-scan base-package="main.java.spring5"></context:component-scan>-->
 
     <!--
     <context:component-scan base-package="spring5.service" use-default-filters="false">
