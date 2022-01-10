@@ -1023,7 +1023,7 @@ public class UserProxy
 
 Spring对JDBC进行封装，使用JdbcTemplate方便实现对数据库的操作
 
-导入依赖
+## 导入依赖
 
 ```xml
         <dependency>
@@ -1055,5 +1055,37 @@ Spring对JDBC进行封装，使用JdbcTemplate方便实现对数据库的操作
             <artifactId>spring-tx</artifactId>
             <version>5.2.19.RELEASE</version>
         </dependency>
+```
+
+## 配置druid连接池（使用.properties）以及jdbctemplate对象
+
+```properties
+druid.url=jdbc:mysql://82.156.203.114:3306/springjdbctemp
+druid.username=pigsy
+druid.password=zhangchi000406
+druid.driverClassName=com.mysql.jdbc.Driver
+```
+
+```java
+//JDBCConfig.java
+@Configuration
+public class JDBCConfig {
+
+    @Bean
+    public JdbcTemplate jdbcTemplate() throws IOException {
+        JdbcTemplate jdbcTemplate = new JdbcTemplate(druidDataSource());
+        return jdbcTemplate;
+    }
+
+    @Bean
+    public DruidDataSource druidDataSource() throws IOException {
+        DruidDataSource druidDataSource = new DruidDataSource();
+        Properties properties = new Properties();
+        BufferedReader bufferedReader = new BufferedReader(new FileReader("D:\\github\\spring_demo6\\src\\main\\resources\\application.properties"));
+        properties.load(bufferedReader);
+        druidDataSource.configFromPropety(properties);
+        return new DruidDataSource();
+    }
+}
 ```
 
