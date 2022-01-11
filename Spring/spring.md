@@ -1019,7 +1019,7 @@ public class UserProxy
     </aop:config>
 ```
 
-# JdbcTemplate
+# JdbcTemplate（spring_demo6)
 
 Spring对JDBC进行封装，使用JdbcTemplate方便实现对数据库的操作
 
@@ -1089,3 +1089,119 @@ public class JDBCConfig {
 }
 ```
 
+## 对数据库进行维护
+
+### 创建entity实体类
+
+需要与数据库中的对应上
+
+```java
+public class User {
+    private int userId;
+
+    private String username;
+
+    private String userstatus;
+
+	//getter and setter for every parameter
+}
+```
+
+### 编写service和mapper
+
+mapper中编写数据库相关操作
+
+调用jdbcTemplate对象里面的update方法实现添加操作
+
+### 添加/删除/修改表项
+
+```java
+@Repository
+public interface UserDao {
+
+    void addUser(User user);
+
+    void deleteUser(int id);
+
+    void updateUser(User user);
+}
+
+
+@Repository
+public class UserDaoImpl implements UserDao {
+
+    @Autowired
+    private JdbcTemplate jdbcTemplate;
+
+    @Override
+    public void addUser(User user) {
+        String sql = "insert into t_user values(?,?,?)";
+        Object[] args = {user.getUserId(), user.getUsername(), user.getUserstatus()};
+        System.out.println(jdbcTemplate.update(sql,args));
+    }
+
+    @Override
+    public void deleteUser(int id) {
+        String sql = "delete from t_user where f_user_id=?";
+        jdbcTemplate.update(sql, id);
+    }
+
+    @Override
+    public void updateUser(User user) {
+        String sql = "update t_user set f_user_name=?,f_user_status where f_user_id=?";
+        Object[] args = {user.getUsername(), user.getUserstatus(), user.getUserId()};
+        jdbcTemplate.update(sql,args);
+    }
+}
+
+
+
+@Service
+public class UserService {
+
+    @Autowired
+    private UserDao userDao;
+
+    public void addBook(User user){
+        userDao.add(user);
+    }
+}
+
+public class TestUser {
+
+    public void testJdbcTemplate(){
+        ApplicationContext context =
+                new AnnotationConfigApplicationContext(JDBCConfig.class);
+        UserService userService = context.getBean("userService", UserService.class);
+
+//        添加
+//        User user = new User();
+//        user.setUserId(1);
+//        user.setUsername("pigsy");
+//        user.setUserstatus("broken");
+//        userService.addUser(user);
+
+
+        //更新
+//        User user = new User();
+//        user.setUserId(1);
+//        user.setUsername("dogsy");
+//        user.setUserstatus("perfect");
+//        userService.updateUser(user);
+
+        //删除
+        int id = 1;
+        userService.deleteUser(id);
+    }
+}
+```
+
+### 查询表项
+
+查询返回某个值
+
+查询返回对象
+
+查询返回集合
+
+见UserDao,UserDaoImpl,UserService
