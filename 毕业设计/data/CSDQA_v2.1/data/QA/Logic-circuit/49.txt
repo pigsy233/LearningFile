@@ -1,0 +1,5 @@
+1.How many NOT Gates are there in this circuit？
+A.0   B.2   C.3   D.4
+2.This circuit is a half adder.
+True    False
+A,True

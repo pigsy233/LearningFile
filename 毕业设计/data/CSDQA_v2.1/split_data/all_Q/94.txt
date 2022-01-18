@@ -1,0 +1,5 @@
+1.The size of the current list is?
+A.n   B.a   C.b  D.c
+2.The length of the current list is n.
+True    False
+A,True

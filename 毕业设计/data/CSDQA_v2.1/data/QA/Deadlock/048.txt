@@ -1,0 +1,5 @@
+1.Waht is this diagram talking about?
+A.logic_circuit   B.deadlock   C.undirected_graph   D.network_topology
+2.Account a is locked by transaction 2.
+True   False
+B,False

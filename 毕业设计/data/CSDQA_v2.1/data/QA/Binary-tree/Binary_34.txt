@@ -1,0 +1,9 @@
+1.What is the second node of the binary tree traversed in in order？
+A.61   B.87   C.1   D.7
+2.This binary tree is a complete binary tree.
+True    False
+3.At least how many more nodes need to be added to this tree to become a complete binary tree?
+A.0   B.1   C.3   D.4
+4.The node 61 can have 2 more child nodes.
+True    False
+A,True,A,False

@@ -1,0 +1,5 @@
+1.What does process 3 want?
+A.resource 1   B.resource 2   C.resource 3   D.resource 4
+2.Process 4 has resource 1 now.
+True   False
+D,False

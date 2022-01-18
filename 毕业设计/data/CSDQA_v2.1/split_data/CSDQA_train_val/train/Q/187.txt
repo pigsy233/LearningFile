@@ -1,0 +1,9 @@
+1.What is the second node of the binary tree traversed in post order?
+A.1   B.4   C.6   D.D
+2.This binary tree is a balanced binary tree.
+True    False
+3.How many generations of ancestor nodes does node 6 have?
+A.1   B.5   C.2   D.3
+4.If add 1 node, the tree may be a complete binary tree.
+True    False
+B,True,A,True

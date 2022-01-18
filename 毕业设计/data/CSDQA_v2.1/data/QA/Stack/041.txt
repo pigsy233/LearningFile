@@ -1,0 +1,9 @@
+1.What is the content of the element at the top of the stack?
+A.10   B.92   C.30   D.77
+2.A pop operation will be performed.
+True    False
+3.Which element will the Top element point to?
+A.77   B.29   C.30   D.92
+4.Element 29 cannot be popped out of the stack before element 92.
+True    False
+D,True,B,False

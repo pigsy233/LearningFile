@@ -1,0 +1,5 @@
+1.What are the elements with blue dot inside allocated to?
+A.p1   B.p2   C.p3   D.p1 and p2
+2.This is not a diagram of deadlock.
+True   False
+D,False

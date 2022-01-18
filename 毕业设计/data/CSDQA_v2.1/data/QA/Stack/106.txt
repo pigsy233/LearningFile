@@ -1,0 +1,9 @@
+1.How many elements are there in the stack?
+A.1   B.3   C.5   D.7
+2.A Push operation is in progress.
+True    False
+3.At least how many pop operations are needed to pop the element 27?
+A.1   B.2   C.3   D.0
+4.After two pop operations, the stack will be empty.
+True    False
+B,False,C,False

@@ -1,0 +1,5 @@
+1.How many nodes are there in the graph?
+A.1   B.2   C.3   D.5
+2.This is a complete graph.
+True    False
+D,True

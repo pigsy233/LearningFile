@@ -1,0 +1,5 @@
+1.What is the depth of the tree?
+A.1  B.2   C.3   D.4
+2.The root node has a value greater than 15.
+True    False
+B,True

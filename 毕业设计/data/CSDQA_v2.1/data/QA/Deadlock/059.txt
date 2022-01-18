@@ -1,0 +1,5 @@
+1.What is thread 1 waiting on?
+A.thread 2   B.lock   C.neither   D.both
+2.Thread 2 is waiting on lock from thread 1.
+True   False
+A,True

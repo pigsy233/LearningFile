@@ -1,0 +1,5 @@
+1.What is resource 1 assigned to?
+A.process 2   B.process 1   C.resource 2   D.none
+2.Process 2 is waiting for resource 1.
+True   False
+B,True

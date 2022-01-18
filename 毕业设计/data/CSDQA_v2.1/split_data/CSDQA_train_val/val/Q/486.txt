@@ -1,0 +1,5 @@
+1.The type of the object in the current diagram?
+A.list   B.tree   C.array   D.other
+2.There are two nodes in the current list in the diagram.
+True    False
+A,False

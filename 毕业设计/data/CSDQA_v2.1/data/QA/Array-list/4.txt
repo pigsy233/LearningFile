@@ -1,0 +1,5 @@
+1.The number of null element in the array?
+A.4   B.12   C.1   D.6
+2.The size of the array is 16.
+True    False
+A,False

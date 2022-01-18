@@ -1,0 +1,5 @@
+1.What is r1 waiting for?
+A.p1   B.p2   C.p3   D.r3
+2.P2 is requesting for r3.
+True   False
+B,True

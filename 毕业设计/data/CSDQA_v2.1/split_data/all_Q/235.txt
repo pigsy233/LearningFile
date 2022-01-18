@@ -1,0 +1,5 @@
+1.What is taken by thread B?
+A.lock 1   B.lock 2   C.lock 3   D.lock 4
+2.Lock 3 is taken by thread d.
+True   False
+B,False

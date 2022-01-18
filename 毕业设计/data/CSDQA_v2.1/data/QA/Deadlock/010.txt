@@ -1,0 +1,5 @@
+1.What is r2 allocated to?
+A.p2   B.p1   C.r1   D.nothing
+2.P1 requests for r1.
+True   False
+A,False

@@ -1,0 +1,5 @@
+1.What is this diagram mainly describing?
+A.flowchart   B.non_binary_tree   C.undirected_graph   D.directed_graph
+2.This is an directed_graph.
+True   False
+A,False

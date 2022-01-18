@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Linked-List</folder>
+	<filename>List_88.png</filename>
+	<path>C:\Users\CYT\Desktop\CSDQA\diagram\Linked-List\List_88.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>221</width>
+		<height>83</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head node</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>28</ymin>
+			<xmax>175</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>list</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>18</ymin>
+			<xmax>175</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>

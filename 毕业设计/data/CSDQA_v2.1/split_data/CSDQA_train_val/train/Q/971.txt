@@ -1,0 +1,9 @@
+1.What is the content of the element at the top of the stack?
+A.A   B.B   C.C   D.D
+2.There are 4 elements in the stack.
+True    False
+3.After pop operation, which element is the bottom of the stack pointing to?
+A.A   B.B   C.C   D.D
+4.B will not pop out of the stack before C.
+True    False
+D,True,A,True

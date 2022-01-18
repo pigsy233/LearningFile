@@ -1,0 +1,5 @@
+1.Which step is before the step “do task” ?
+A.end   B.increment x   C.x < 10?   D.start
+2.This is a flowchart.
+True   False
+C,True

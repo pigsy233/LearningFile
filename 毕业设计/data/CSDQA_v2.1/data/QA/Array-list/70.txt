@@ -1,0 +1,5 @@
+1.The value of index 2 of the array is?
+A.5   B.6   C.2  D.8
+2.The length of the current array is 6.
+True    False
+C,True

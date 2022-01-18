@@ -1,0 +1,9 @@
+1.What is the third node of the binary tree traversed in post order?
+A.32   B.23   C.6   D.54
+2.This binary tree is not a full binary tree.
+True    False
+3.How many generations of ancestor nodes does node 40 have?
+A.1   B.2   C.3   D.4
+4.If delete 4 nodes, the tree may be a complete binary tree.
+True    False
+B,False,B,True

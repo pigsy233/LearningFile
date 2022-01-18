@@ -1,0 +1,5 @@
+1.What is the content of front in the array?
+A.11   B.0   C.14   D.7
+2.There is an element with content 5 in the queue.
+True    False
+A,True

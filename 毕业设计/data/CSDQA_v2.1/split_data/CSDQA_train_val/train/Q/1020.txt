@@ -1,0 +1,9 @@
+1.What is the bottom element of the stack?
+A.Blue   B.Red   C.A   D.1
+2.Element Green has just been popped.
+True    False
+3.How many pop operations are required to pop element Blue from the stack?
+A.1   B.2   C.3   D.4
+4.At most two pop operations can now be performed.
+True    False
+A,True,A,False

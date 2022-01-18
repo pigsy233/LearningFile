@@ -1,0 +1,9 @@
+1.How many more elements are in the stack?
+A.3   B.4   C.6   D.8
+2.A pop operation is in progress.
+True    False
+3.At least how many pop operations are needed to pop element 2008?
+A.1   B.2   C.3   D.4
+4.The top and bottom of the stack are the same element.
+True    False
+B,False,D,False

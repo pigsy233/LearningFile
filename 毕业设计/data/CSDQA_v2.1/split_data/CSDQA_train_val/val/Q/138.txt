@@ -1,0 +1,9 @@
+1.What is the third node of the binary tree traversed in in order？
+A.6   B.5   C.1   D.9
+2.This binary tree is a complete binary tree.
+True    False
+3.Which is the left child node of the left child node of the node 6?
+A.6   B.1   C.3   D.5
+4.This tree needs 6 more nodes to become a complete binary tree.
+True    False
+A,False,B,False

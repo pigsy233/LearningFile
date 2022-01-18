@@ -1,0 +1,5 @@
+1.The length of the array is?
+A.5   B.6   C.3  D.9
+2.Xiao Ming said there are nine values in the current array.
+True    False
+D,True

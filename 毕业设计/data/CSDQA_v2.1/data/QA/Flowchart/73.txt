@@ -1,0 +1,5 @@
+1.What is after the step “decision?”?
+A.start   B.process step 1   C.process step 2   D.a
+2.The step directly before the step “process step 1” is “start”.
+True   False
+C,True

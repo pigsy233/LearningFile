@@ -1,0 +1,5 @@
+1.The last element of the array?
+A.4   B.6   C.9   D.15
+2.The length of the array is 2.
+True    False
+D,False

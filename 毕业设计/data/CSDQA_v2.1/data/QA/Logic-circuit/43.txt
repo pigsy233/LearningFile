@@ -1,0 +1,5 @@
+1.How many input ports does the circuit have？
+A.3   B.4   C.5   D.6
+2.The output will always be false if D input is false.
+True    False
+D,False

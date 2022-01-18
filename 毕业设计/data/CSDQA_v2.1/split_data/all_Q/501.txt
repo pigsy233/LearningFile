@@ -1,0 +1,5 @@
+1.The current value of the linked list?
+A.11   B.20   C.10   D.7
+2.There are 4 nodes in the current list.
+True    False
+C,False

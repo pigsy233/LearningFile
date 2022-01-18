@@ -1,0 +1,5 @@
+1.What is thread A holding?
+A.lock l   B.lock m   C.both   D.neither
+2.Thread b is requesting for lock m.
+True   False
+A,False

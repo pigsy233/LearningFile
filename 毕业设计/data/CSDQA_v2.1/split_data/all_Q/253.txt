@@ -1,0 +1,5 @@
+1.What is p2 holding?
+A.r2   B.p3   C.r1   D.p1
+2.P3 is not holding r2.
+True   False
+A,False

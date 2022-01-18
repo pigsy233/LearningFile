@@ -1,0 +1,9 @@
+1.How many more elements are in the queue?
+A.3   B.4   C.6   D.8
+2.A pop operation is in progress.
+True    False
+3.After pop operation, which element is the top of the stack pointing to?
+A.5   B.6   C.3   D.4
+4.To pop element 1 requires at least two pop operations.
+True    False
+A,True,C,False

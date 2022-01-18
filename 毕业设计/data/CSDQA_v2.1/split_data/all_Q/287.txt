@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.deadlock   B.flowchart   C.network_topology   D.array_list
+2.This diagram is mainly about network_topology.
+True   False
+A,False

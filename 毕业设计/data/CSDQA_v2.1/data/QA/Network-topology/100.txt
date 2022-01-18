@@ -1,0 +1,5 @@
+1.Which node is marked by a red point in the graph?
+A.Chicago   B.New York   C.Dallas   D.Miami
+2.There are four lines in the graph.
+True    False
+B,True

@@ -1,0 +1,5 @@
+1.What is black point at both ends in the graph?
+A.drop cable   B.terminating resistance absorbs signal   C.network bus cable   D.Star
+2.There four devices in the graph.
+True    False
+B,True

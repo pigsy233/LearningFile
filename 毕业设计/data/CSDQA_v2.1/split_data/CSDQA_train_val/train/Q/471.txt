@@ -1,0 +1,5 @@
+1.The last value in the linked list?
+A.23   B.15   C.1   D.7
+2.There are head and tail in the list.
+True    False
+B,True

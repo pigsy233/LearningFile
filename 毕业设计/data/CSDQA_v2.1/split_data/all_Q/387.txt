@@ -1,0 +1,5 @@
+1.What is the step before "exit loop"?
+A.start   B.check condition   C.statement block   D.stop
+2.The step before "check condition" is "stop".
+True   False
+C,False

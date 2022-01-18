@@ -1,0 +1,5 @@
+1.The third value of the array is?
+A.5   B.20   C.3  D.6
+2.There exists seven values in the current array.
+True    False
+B,False

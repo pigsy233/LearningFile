@@ -1,0 +1,9 @@
+1.What is the depth of the binary tree？
+A.1   B.2   C.3   D.4
+2.This binary tree is a full binary tree.
+True    False
+3.How many child nodes can the node F have at most?
+A.1   B.5   C.2   D.4
+4.The node B can have another 1 child node.
+True    False
+D,False,C,True

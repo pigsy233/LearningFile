@@ -1,0 +1,9 @@
+1.What is the content of the element being pushed?
+A.2   B.4   C.6   D.8
+2.There are a total of 6 elements in the stack after the push operation is completed.
+True    False
+3.How many elements are in the stack after the push operation?
+A.5   B.6   C.3   D.4
+4.The top and bottom of the stack are the same element.
+True    False
+C,True,B,False

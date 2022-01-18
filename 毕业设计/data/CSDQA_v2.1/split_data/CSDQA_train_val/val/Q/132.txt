@@ -1,0 +1,9 @@
+1.What is the second node of the binary tree traversed in in order？
+A.61   B.87   C.59   D.7
+2.This binary tree is a complete binary tree.
+True    False
+3.Which is the left child node of the left child node of the root node?
+A.59   B.47   C.61   D.87
+4.This tree needs 3 more nodes to become a complete binary tree.
+True    False
+C,False,B,True

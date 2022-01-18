@@ -1,0 +1,9 @@
+1.What is the content of the root node of this binary tree?
+A.A   B.B   C.3   D.7
+2.The root node of this binary tree has no right subtree.
+True    False
+3.Which of the following are the ancestor node of node F?
+A.A   B.3   C.E   D.J
+4.Node A can also have another child node.
+True    False
+A,False,A,True  

@@ -1,0 +1,5 @@
+1.The length of the array?
+A.5   B.11   C.18   D.4
+2.You can not find element 2.
+True    False
+D,True

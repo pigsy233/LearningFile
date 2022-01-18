@@ -1,0 +1,5 @@
+1.The value of current node in the linked list?
+A.23   B.2   C.1   D.7
+2.You can not search 16 in the current list.
+True    False
+A,True

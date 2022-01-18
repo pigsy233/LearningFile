@@ -1,0 +1,5 @@
+1.The third content of the arraylist?
+A.7   B.11   C.2   D.3
+2.The list is null.
+True    False
+B,False

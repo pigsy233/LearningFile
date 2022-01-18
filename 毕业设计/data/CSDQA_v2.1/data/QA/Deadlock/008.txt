@@ -1,0 +1,5 @@
+1.What does process B have a lock on?
+A.resource x   B.resource y   C.resource a   D.process a
+2.Resource X is locked by process B.
+True   False
+B,False

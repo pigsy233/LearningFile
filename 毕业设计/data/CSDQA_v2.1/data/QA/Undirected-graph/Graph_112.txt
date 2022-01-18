@@ -1,0 +1,5 @@
+1.How many neighbor nodes does the 2 node have?
+A.1   B.2   C.3   D.4
+2.the graph is an undirected cyclic graph.
+True    False
+B,False

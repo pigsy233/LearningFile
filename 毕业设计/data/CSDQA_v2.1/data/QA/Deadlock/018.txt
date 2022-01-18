@@ -1,0 +1,5 @@
+1.What does task 1 want?
+A.scanner   B.task2   C.printer   D.none
+2.The scanner is now holded by task 2.
+True   False
+A,True

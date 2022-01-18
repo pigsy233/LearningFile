@@ -1,0 +1,5 @@
+1.The size of the current list?
+A.2   B.5   C.3   D.n
+2.You can find two head nodes in the list.
+True    False
+D,False

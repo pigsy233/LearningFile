@@ -1,0 +1,5 @@
+1.The index of 2 of the arraylist?
+A.0   B.1   C.2   D.3
+2.The initially size of the list is not 5.
+True    False
+A,True

@@ -1,0 +1,9 @@
+1.How many elements are in the stack?
+A.1   B.2   C.3   D.4
+2.Two elements can be pushed into the stack.
+True    False
+3.How many elements are in the stack after a push operation?
+A.1   B.2   C.3   D.4
+4.Now the top and bottom of the stack are the same element.
+True    False
+A,True,B,True

@@ -1,0 +1,5 @@
+1.The insert value in the current list?
+A.a   B.b   C.x   D.d
+2.You can not find b in the current list.
+True    False
+C,False

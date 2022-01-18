@@ -1,0 +1,9 @@
+1.What is the element just pushed into the stack?
+A.E   B.2   C.A   D.4
+2.Two elements can be pushed into the stack.
+True    False
+3.How many empty elements are in the stack after a pop operation?
+A.1   B.2   C.3   D.4
+4.A will not pop out of the stack before B.
+True    False
+A,False,B,True

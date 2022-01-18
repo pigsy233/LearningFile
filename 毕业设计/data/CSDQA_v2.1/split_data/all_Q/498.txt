@@ -1,0 +1,5 @@
+1.The index of the start node?
+A.1   B.b   C.c   D.n
+2.You can find head node in the diagram.
+True    False
+A,True

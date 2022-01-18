@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.deadlock   B.array_list   C.flowchart   D.undirected_graph
+2.P2 is waiting for r3.
+True   False
+A,True

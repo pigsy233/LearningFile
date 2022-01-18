@@ -1,0 +1,9 @@
+1.What is the third node of the binary tree traversed in post order?
+A.*   B.B   C.C   D.D
+2.This binary tree is a balanced binary tree.
+True    False
+3.How many generations of ancestor nodes does node B have?
+A.1   B.5   C.2   D.3
+4.If delete 4 nodes, the tree may be a complete binary tree.
+True    False
+C,False,D,True

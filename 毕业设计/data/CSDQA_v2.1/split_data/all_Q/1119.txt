@@ -1,0 +1,5 @@
+1.What is the degree of the node with the smallest degree in the graph?
+A.1   B.5   C.2   D.7
+2.Node V2 has an edge pointing to itself.
+True    False
+C,False

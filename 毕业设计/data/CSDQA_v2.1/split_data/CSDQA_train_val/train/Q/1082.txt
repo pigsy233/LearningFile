@@ -1,0 +1,9 @@
+1.How many elements are in the stack?
+A.3   B.4   C.6   D.8
+2.This is a stack.
+True    False
+3.At least how many pop operations are needed to pop the element 5?
+A.1   B.2   C.3   D.0
+4.After a pop operation, the stack will be empty.
+True    False
+B,True,C,False

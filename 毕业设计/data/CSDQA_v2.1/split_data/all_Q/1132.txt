@@ -1,0 +1,5 @@
+1.How many nodes of degree 5 are there in the graph?
+A.1   B.2   C.0   D.4
+2.The graph is a directed graph.
+True    False
+C,False

@@ -1,0 +1,9 @@
+1.What is the third node of the binary tree traversed in in order？
+A.60   B.55   C.50   D.9
+2.This binary tree is not a complete binary tree.
+True    False
+3.Which is the left child node of the left child node of the node 50?
+A.6   B.1   C.3   D.None
+4.If add four more nodes, the tree may still be a complete binary tree.
+True    False
+A,False,D,True

@@ -1,0 +1,5 @@
+1.What is the diagram describing?
+A.binary_tree   B.non_binary_tree   C.flowchart   D.none
+2.This is a non_binary_tree.
+True   False
+C,False

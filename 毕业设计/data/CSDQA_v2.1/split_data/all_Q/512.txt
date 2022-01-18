@@ -1,0 +1,5 @@
+1.How many nodes in the current list?
+A.3   B.5   C.2   D.4
+2.You can find p in the linked list.
+True    False
+A,True

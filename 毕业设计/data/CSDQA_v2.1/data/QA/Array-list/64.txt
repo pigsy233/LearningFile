@@ -1,0 +1,5 @@
+1.The length of the array is?
+A.1   B.4   C.2  D.3
+2.You can find 5 in the array.
+True    False
+B,False

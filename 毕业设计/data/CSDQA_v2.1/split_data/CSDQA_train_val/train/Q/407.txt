@@ -1,0 +1,5 @@
+1.Which step is before the step "type"?
+A.desp   B.esp   C.ns   D.art 3.3
+2.The step before "art 3.3" is "ns".
+True   False
+A,False

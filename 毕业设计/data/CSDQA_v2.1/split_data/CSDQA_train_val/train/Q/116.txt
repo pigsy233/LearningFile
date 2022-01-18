@@ -1,0 +1,9 @@
+1.How many nodes does this binary tree have？
+A.3   B.4   C.1   D.7
+2.This binary tree has one leaf nodes.
+True    False
+3.How many generations of ancestor nodes does node 3 have?
+A.1   B.5   C.2   D.4
+4.The node 1 can have 1 more child node.
+True    False
+A,True,C,True

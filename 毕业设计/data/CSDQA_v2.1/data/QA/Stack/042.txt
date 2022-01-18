@@ -1,0 +1,9 @@
+1.How many elements are in the stack?
+A.1   B.2   C.3   D.4
+2.The stack will be empty after pop operation.
+True    False
+3.Which element will the Top element point to after a pop operation?
+A.77   B.29   C.30   D.92
+4.Element 10 cannot be popped out of the stack before element 92.
+True    False
+D,False,C,True

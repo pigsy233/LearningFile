@@ -1,0 +1,9 @@
+1.How many elements are in the stack?
+A.3   B.4   C.2   D.1
+2.This is an empty stack.
+True    False
+3.How many elements are in the stack after a push operation?
+A.1   B.2   C.3   D.4
+4.After a pop operation, the bottom of the stack and the top of the stack are the same element.
+True    False
+A,False,C,False

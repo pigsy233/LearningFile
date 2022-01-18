@@ -1,0 +1,5 @@
+1.What is the kind of topology in the graph?
+A.Tree   B.Bus   C.Ring   D.Star
+2.There four PCs in the graph.
+True    False
+B,False

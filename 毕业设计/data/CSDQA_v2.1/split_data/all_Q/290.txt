@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.flowchart   B.undirected_graph   C.deadlock   D.array_list
+2.The diagram is mainly about deadlock.
+True   False
+C,True

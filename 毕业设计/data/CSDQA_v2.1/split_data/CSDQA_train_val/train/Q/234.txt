@@ -1,0 +1,5 @@
+1.What is p2 requesting for?
+A.r1   B.r2   C.both   D.neither
+2.P1 and p2 both request for r2.
+True   False
+B,True

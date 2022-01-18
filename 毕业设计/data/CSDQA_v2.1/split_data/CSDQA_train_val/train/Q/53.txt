@@ -1,0 +1,5 @@
+1.The length of the array?
+A.1   B.5   C.10   D.9
+2.The length of the array is not 8.
+True    False
+D,True

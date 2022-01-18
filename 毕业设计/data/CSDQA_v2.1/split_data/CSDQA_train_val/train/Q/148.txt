@@ -1,0 +1,9 @@
+1.How many layers does this binary tree have？
+A.1   B.2   C.3   D.4
+2.The root node of this binary tree has no left subtree.
+True    False
+3.What is the right child of node 50?
+A.20   B.50   C.40   D.75
+4.The node 20 is the ancestor node of the node 75.
+True    False
+C,True,D,True

@@ -1,0 +1,9 @@
+1.What is the content of the element being popped?
+A.2   B.4   C.6   D.8
+2.There are a total of 6 elements in the stack after the pop operation is completed.
+True    False
+3.After pop operation, which element is the top of the stack pointing to?
+A.5   B.6   C.3   D.4
+4.To pop element 4 requires at least two pop operations.
+True    False
+C,False,A,True

@@ -1,0 +1,5 @@
+1.What is process a waiting for?
+A.process b   B.resource x   C.resource y   D.none
+2.Resource y is owned by a.
+True   False
+B,True

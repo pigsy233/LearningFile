@@ -1,0 +1,5 @@
+1.The number of all node(s) in the diagram?
+A.1   B.6   C.3   D.2
+2.You can not search any node in the list.
+True    False
+D,False

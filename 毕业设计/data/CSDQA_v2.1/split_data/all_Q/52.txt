@@ -1,0 +1,5 @@
+1.The size of the array?
+A.1   B.5   C.10   D.4
+2.The id of a[0] of the array is not 1004.
+True    False
+C,True

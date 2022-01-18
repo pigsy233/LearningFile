@@ -1,0 +1,5 @@
+1.What is after step “Start” ?
+A.read temperature   B.print “above freezing   C.end   D.print “below freezing
+2.This diagram is mainly talking about flowchart.
+True   False
+A,True

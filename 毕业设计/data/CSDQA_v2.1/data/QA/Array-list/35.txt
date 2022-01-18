@@ -1,0 +1,5 @@
+1.The biggest index of the array?
+A.4   B.6   C.9   D.20
+2.You can find 20 in the array.
+True    False
+C,False

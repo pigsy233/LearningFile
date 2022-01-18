@@ -1,0 +1,5 @@
+1.What Logic Gate is input A connected to？
+A.AND   B.OR   C.XOR   D.NOT
+2.The output will always be true if the A input is true.
+True    False
+B,True

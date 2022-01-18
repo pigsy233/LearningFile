@@ -1,0 +1,5 @@
+1.What is the degree of the node with the largest degree in the graph?
+A.1   B.2   C.3   D.4
+2.There are nodes with the same degree in the graph.
+True    False
+D,True

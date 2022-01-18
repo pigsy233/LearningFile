@@ -1,0 +1,5 @@
+1.How many empty cells?
+A.12   B.5   C.10   D.13
+2.The numbers stored in the array is 7.
+True    False
+B,True

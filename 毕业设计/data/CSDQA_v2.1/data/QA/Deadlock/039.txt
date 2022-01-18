@@ -1,0 +1,5 @@
+1.What is p2 requesting?
+A.all   B.resource2   C.resource1   D.p1
+2.P1 is requesting p2.
+True   False
+C,False

@@ -1,0 +1,9 @@
+1.What is the content of the element being pushed?
+A.2   B.4   C.6   D.8
+2.There are a total of 4 elements in the stack after the push operation is completed.
+True    False
+3.At least how many pop operations are needed to pop the bottom of the stack?
+A.1   B.2   C.3   D.4
+4.At most two pop operations can now be performed.
+True    False
+A,False,B,True

@@ -1,0 +1,5 @@
+1.What Logic Gate is A input directly connected to？
+A.AND   B.OR   C.XOR   D.NAND
+2.The output will be true if all the inputs are true.
+True    False
+D,True

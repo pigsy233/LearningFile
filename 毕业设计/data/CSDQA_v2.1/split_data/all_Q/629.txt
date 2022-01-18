@@ -1,0 +1,5 @@
+1. How many computers in the network ?
+A.1 B.6 C.3 D.4
+2. It is a ring network topology.
+True False
+B,True

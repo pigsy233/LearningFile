@@ -1,0 +1,5 @@
+1.Which kind of Logic Gate does not exist in the circuit？
+A.AND   B.OR   C.NOT   D.NAND
+2.The output will be true if the inputs are opposite to each other.
+True    False
+D,True

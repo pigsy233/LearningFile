@@ -1,0 +1,5 @@
+1. How many edges in the network ?
+A.17 B.19 C.13 D.14
+2. It is a hybrid topology.
+True False
+B,True

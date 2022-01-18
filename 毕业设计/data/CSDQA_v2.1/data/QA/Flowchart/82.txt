@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.undirected_graph   B.flowchart   C.non_binary_tree   D.none
+2.This diagram is of undirected_graph.
+True   False
+B,False

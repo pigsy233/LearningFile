@@ -1,0 +1,5 @@
+1.Which kind of Logic Gate exists in the circuit？
+A.AND   B.NOT   C.NOR   D.NAND
+2.The output will be true if all the inputs are false.
+True    False
+A,False

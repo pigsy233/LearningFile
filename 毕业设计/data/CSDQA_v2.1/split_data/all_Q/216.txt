@@ -1,0 +1,5 @@
+1.What is T2 thread waiting for?
+A.r2   B.r1   C.t1   D.above all
+2.T1 thread waits for lock of r1.
+True   False
+A,True

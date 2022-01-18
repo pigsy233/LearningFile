@@ -1,0 +1,5 @@
+1.Which Logic Gate is the same as this circuit？
+A.AND   B.OR   C.XOR   D.NOT
+2.The output will be false if all the inputs are true.
+True    False
+B,False

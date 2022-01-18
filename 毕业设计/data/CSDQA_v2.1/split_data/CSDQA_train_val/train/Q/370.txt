@@ -1,0 +1,5 @@
+1.What is the diagram mainly describing?
+A.binary_tree   B.non_binary_tree   C.undirected_graph   D.flowchart
+2.This diagram mainly describes a flowchart.
+True   False
+D,True

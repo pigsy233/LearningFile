@@ -1,0 +1,5 @@
+1.Which of the following is the neighbor of node A?
+A.E   B.F   C.C   D.B
+2.There is a node with content 2 in the graph.
+True    False
+D,False

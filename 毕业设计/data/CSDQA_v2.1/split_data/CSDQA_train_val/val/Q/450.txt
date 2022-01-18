@@ -1,0 +1,5 @@
+1.What is after the step “yes”?
+A.are you right?   B.no   C.you lose   D.none
+2.The step before “no” is “are you right?”.
+True   False
+C,True

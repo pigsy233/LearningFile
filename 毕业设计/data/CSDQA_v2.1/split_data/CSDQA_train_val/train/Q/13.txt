@@ -1,0 +1,5 @@
+1.The content in the low index?
+A.9   B.5   C.10   D.13
+2.The length of the array is 2.
+True    False
+B,False

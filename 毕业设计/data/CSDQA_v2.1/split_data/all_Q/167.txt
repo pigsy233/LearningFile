@@ -1,0 +1,9 @@
+1.What is the depth of the binary tree？
+A.1   B.2   C.3   D.4
+2.This binary tree is not a full binary tree.
+True    False
+3.Which is the left child node of the left child node of the node 59?
+A.59   B.47   C.61   D.None
+4.This tree needs 3 more nodes to become a complete binary tree.
+True    False
+B,True,D,False

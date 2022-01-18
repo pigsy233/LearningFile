@@ -1,0 +1,5 @@
+1.Which step is directly before the step “what next”?
+A.stop   B.step 2   C.step 1   D.none
+2.The step directly after “step 1” is “step 2”.
+True   False
+B,True

@@ -1,0 +1,5 @@
+1.The type of the object?
+A.other   B.list   C.tree   D.graph
+2.You can not remove p in the linked list.
+True    False
+B,False

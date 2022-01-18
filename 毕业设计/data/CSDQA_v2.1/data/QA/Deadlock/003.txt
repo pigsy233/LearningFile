@@ -1,0 +1,5 @@
+1.What does process A lock?
+A.table b   B.process b   C.table a   D.process a
+2.Process B requests table A.
+True   False
+C,True

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Linked-List</folder>
+	<filename>List_58.png</filename>
+	<path>C:\Users\CYT\Desktop\CSDQA\diagram\Linked-List\List_58.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>196</width>
+		<height>101</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insert value</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>62</ymin>
+			<xmax>97</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>32</ymin>
+			<xmax>134</xmax>
+			<ymax>41</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>current list</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>6</ymin>
+			<xmax>196</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+</annotation>

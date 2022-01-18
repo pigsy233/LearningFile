@@ -1,0 +1,5 @@
+1.What is p1 waiting for?
+A.r1   B.p1   C.r2   D.none
+2.P1 is not holding r1.
+True   False
+C,False

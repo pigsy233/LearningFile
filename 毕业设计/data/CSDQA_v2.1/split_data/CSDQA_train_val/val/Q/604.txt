@@ -1,0 +1,5 @@
+1.How many output ports are there in this circuit？
+A.1   B.0   C.2   D.3
+2.This is a latch.
+True    False
+C,True

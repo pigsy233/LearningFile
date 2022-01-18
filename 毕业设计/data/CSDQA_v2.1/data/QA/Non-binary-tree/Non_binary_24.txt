@@ -1,0 +1,5 @@
+1.What is the content of the root?
+A.word  B.question   C.letter   D.number
+2.The tree has more than two levels.
+True    False
+D,False

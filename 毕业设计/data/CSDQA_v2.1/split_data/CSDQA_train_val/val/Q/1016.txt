@@ -1,0 +1,9 @@
+1.What is the bottom element of the stack?
+A.Blue   B.Red   C.A   D.1
+2.Element 2 has just been popped into the stack.
+True    False
+3.At least how many pop operations are needed to pop element Blue?
+A.1   B.2   C.3   D.4
+4.The top and bottom of the stack are the same element.
+True    False
+A,False,A,True

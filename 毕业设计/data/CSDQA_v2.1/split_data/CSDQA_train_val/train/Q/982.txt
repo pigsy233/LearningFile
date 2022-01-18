@@ -1,0 +1,9 @@
+1.What is the top element of the stack?
+A.0   B.3   C.2   D.1
+2.Element 1 has just been pushed into the stack.
+True    False
+3.How many pop operations are required to pop element 1 from the stack?
+A.1   B.2   C.3   D.4
+4.Element 1 will not be popped out of the stack before element 2.
+True    False
+D,True,A,True

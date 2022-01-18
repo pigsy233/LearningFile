@@ -1,0 +1,5 @@
+1.The first value of the current list is?
+A.1   B.2   C.17  D.3
+2.You can delete 2 in the current list.
+True    False
+B,True

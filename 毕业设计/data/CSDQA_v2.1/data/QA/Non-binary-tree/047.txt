@@ -1,0 +1,5 @@
+1.How many nodes are there in the second level of the tree?
+A.<=3  B.4   C.5   D.>=6
+2.The root node with the content less than 10.
+True    False
+D,False

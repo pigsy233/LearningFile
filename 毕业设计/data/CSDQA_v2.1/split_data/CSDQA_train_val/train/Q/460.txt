@@ -1,0 +1,5 @@
+1.What is the diagram mainly describing?
+A.directed_graph   B.network_topology   C.flowchart   D.undirected_graph
+2.This diagram is mainly describing flowchart.
+True   False
+C,True

@@ -1,0 +1,5 @@
+1.What is the content of the diagram?
+A.undirected_graph   B.deadlock   C.stack   D.graph
+2.P2 is requesting for r2.
+True   False
+B,True

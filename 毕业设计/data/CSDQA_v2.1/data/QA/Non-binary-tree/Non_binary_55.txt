@@ -1,0 +1,5 @@
+1.What is the content of root node?
+A.1   B.2   C.3   D.4
+2.There is an element with content 0 in the tree.
+True    False
+A,False

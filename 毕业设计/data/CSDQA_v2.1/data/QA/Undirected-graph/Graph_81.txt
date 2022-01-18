@@ -1,0 +1,5 @@
+1.How many nodes of degree 1 are there in the graph?
+A.1   B.2   C.3   D.4
+2.The graph has an isolated node.
+True    False
+C,False

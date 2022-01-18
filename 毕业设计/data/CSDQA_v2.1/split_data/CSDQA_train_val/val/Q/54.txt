@@ -1,0 +1,5 @@
+1.The first content of the array?
+A.1   B.5   C.10   D.9
+2.The last value of the array is not 2.
+True    False
+A,False

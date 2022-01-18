@@ -1,0 +1,5 @@
+1.Which step is directly after the step “child”?
+A.detailed   B.start   C.process   D.back
+2.The step directly before “back” is “process”.
+True   False
+C,True

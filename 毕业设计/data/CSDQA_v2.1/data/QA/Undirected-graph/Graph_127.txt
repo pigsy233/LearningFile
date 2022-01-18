@@ -1,0 +1,5 @@
+1.How many edges are there in this graph?
+A.1   B.3   C.4   D.8
+2.There are 4 nodes in the graph.
+True    False
+C,True

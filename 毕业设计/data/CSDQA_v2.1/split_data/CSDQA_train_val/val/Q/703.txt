@@ -1,0 +1,5 @@
+1.What is the type of topology in the graph?
+A.Tree   B.Line   C.Ring   D.Star
+2.There are six nodes in the queue.
+True    False
+B,False

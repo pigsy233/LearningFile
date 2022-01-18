@@ -1,0 +1,5 @@
+1.What is d waiting for?
+A.d   B.u   C.c   D.t
+2.T is waiting for d.
+True   False
+B,True

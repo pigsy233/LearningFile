@@ -1,0 +1,5 @@
+1.The type of the object?
+A.list   B.array   C.tensor   D.graph
+2.This is a list in the diagram.
+True    False
+A,True

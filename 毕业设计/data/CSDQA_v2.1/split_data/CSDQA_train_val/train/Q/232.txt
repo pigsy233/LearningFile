@@ -1,0 +1,5 @@
+1.Which transaction holds resource grade?
+A.transaction t1   B.transaction t2   C.thread1   D.thread2
+2.Transaction t2 is requesting for resource grade.
+True   False
+B,False

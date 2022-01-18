@@ -1,0 +1,5 @@
+1.The default initial capacity of list is?
+A.12   B.11   C.10   D.13
+2.The first content of this arraylist is five.
+True    False
+C,False

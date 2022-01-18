@@ -1,0 +1,5 @@
+1.The size of the array is?
+A.1   B.2   C.5   D.4
+2.The second value of the array is not 2.
+True    False
+C,True

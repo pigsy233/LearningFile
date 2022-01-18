@@ -1,0 +1,5 @@
+1.What is thread 2 waiting for?
+A.resource a   B.resource b   C.thread 1   D.none
+2.Thread 1 is locking resource b.
+True   False
+A,False

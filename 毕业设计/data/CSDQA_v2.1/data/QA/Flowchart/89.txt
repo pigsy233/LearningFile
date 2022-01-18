@@ -1,0 +1,5 @@
+1.What form is this diagram in?
+A.deadlock   B.directed_graph   C.array_list   D.flowchart
+2.This is a flowchart.
+True   False
+D,True

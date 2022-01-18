@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Linked-List</folder>
+	<filename>List_47.png</filename>
+	<path>C:\Users\CYT\Desktop\CSDQA\diagram\Linked-List\List_47.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>589</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>start node</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>27</ymin>
+			<xmax>216</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>head node</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>28</ymin>
+			<xmax>122</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>diagram</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>14</ymin>
+			<xmax>556</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

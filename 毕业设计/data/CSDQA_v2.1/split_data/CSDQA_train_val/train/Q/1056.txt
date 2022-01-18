@@ -1,0 +1,9 @@
+1.How many empty elements are in the stack?
+A.4   B.3   C.2   D.1
+2.The pop operation has just been completed.
+True    False
+3.At least how many pop operations are needed to pop the bottom element?
+A.1   B.2   C.3   D.n
+4.After a pop operation, the bottom of the stack and the top of the stack are the same element.
+True    False
+C,True,B,True

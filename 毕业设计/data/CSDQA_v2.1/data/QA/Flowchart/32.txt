@@ -1,0 +1,5 @@
+1.What is the diagram mainly talking about?
+A.flowchart   B.directed_graph   C.undirected_graph   D.network_topology
+2.This is a diagram of flowchart.
+True   False
+A,True

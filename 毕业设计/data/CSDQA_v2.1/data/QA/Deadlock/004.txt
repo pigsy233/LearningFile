@@ -1,0 +1,5 @@
+1.What does thread 2 want?
+A.object 1   B.object2   C.thread 1   D.thread 3
+2.Thread 1 is holding object2.
+True   False
+A,False

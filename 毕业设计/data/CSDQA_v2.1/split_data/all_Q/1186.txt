@@ -1,0 +1,5 @@
+1.How many edges are there in the graph?
+A.1   B.5   C.3   D.10
+2.Node 1 has an edge pointing to itself.
+True    False
+D,False

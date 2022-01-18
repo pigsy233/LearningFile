@@ -1,0 +1,5 @@
+1.How many Logic Gates does the circuit have？
+A.3   B.4   C.5   D.6
+2.The output will always be false if B input is false.
+True    False
+C,True

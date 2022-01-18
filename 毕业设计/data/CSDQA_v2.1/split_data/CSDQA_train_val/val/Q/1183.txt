@@ -1,0 +1,5 @@
+1.How many neighbor nodes does the node E站 have?
+A.1   B.2   C.3   D.4
+2.There is an edge between node C站 and node A站.
+True    False
+B,True

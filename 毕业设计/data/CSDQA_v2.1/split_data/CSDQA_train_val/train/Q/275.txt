@@ -1,0 +1,5 @@
+1.What does hopper want in this diagram?
+A.dijkstra   B.knuth   C.a box with a dot inside   D.turing
+2.This is a diagram of undirected_graph.
+True   False
+C,False

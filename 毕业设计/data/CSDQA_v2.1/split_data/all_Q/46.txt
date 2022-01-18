@@ -1,0 +1,5 @@
+1.The content of index 2 of the array?
+A.5   B.53   C.66   D.6
+2.The length of the array is not 2.
+True    False
+D,True

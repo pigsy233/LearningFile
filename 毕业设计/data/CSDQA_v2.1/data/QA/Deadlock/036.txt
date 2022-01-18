@@ -1,0 +1,5 @@
+1.What does thread-1 need?
+A.obj1   B.thread-2   C.obj2   D.none
+2.Thread-2 holds obj2.
+True   False
+C,True

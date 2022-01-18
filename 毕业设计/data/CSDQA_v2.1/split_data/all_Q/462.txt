@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.deadlock   B.undirected_graph   C.flowchart   D.network_topology
+2.The diagram mainly describes a network_topology.
+True   False
+C,False

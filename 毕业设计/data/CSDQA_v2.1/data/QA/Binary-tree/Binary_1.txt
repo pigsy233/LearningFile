@@ -1,0 +1,9 @@
+1.How many layers does this binary tree have？
+A.1   B.2   C.3   D.4
+2.There is an element with content A in the binary tree.
+True    False
+3.Which of the following is the parent node of node B?
+A.A   B.B   C.C   D.D
+4.Node A can also have another child node.
+True    False
+B,True,A,True

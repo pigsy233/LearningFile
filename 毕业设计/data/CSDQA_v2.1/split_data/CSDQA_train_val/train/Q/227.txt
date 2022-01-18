@@ -1,0 +1,5 @@
+1.What is this diagram talking about?
+A.deadlock   B.binary_tree   C.array_list   D.directed_graph
+2.The p2 blocked p3.
+True   False
+A,True

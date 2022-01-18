@@ -1,0 +1,5 @@
+1.What is the content of this diagram?
+A.logic_circuit   B.non_binary_tree   C.deadlock   D.stack
+2.The r3 is allocated to p2.
+True   False
+C,False

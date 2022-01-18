@@ -1,0 +1,5 @@
+1.What concept is this diagram maintaining?
+A.array_list   B.network_topology   C.deadlock   D.undirected_graph
+2.This diagram gives an example of deadlock.
+True   False
+C,True

@@ -1,0 +1,5 @@
+1.What is workers waiting to send?
+A.locations   B.downloader   C.contents   D.workers
+2.Downloader is waiting for contents to be received.
+True   False
+C,True

@@ -1,0 +1,9 @@
+1.How many nodes does this binary tree have？
+A.2   B.4   C.5   D.1
+2.This binary tree has three leaf nodes.
+True    False
+3.How many child nodes can the node in the diagram have at most?
+A.1   B.5   C.2   D.4
+4.The node can have another 2 child nodes.
+True    False
+D,False,C,True

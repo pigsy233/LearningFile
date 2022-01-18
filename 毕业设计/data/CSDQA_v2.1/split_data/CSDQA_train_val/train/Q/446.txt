@@ -1,0 +1,5 @@
+1.What is this diagram mainly talking about?
+A.flowchart   B.deadlock   C.binary_tree   D.array_list
+2.The diagram is mainly describing flowchart.
+True   False
+A,True

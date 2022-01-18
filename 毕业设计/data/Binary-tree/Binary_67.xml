@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Binary-tree</folder>
+	<filename>Binary_67.png</filename>
+	<path>D:\temp\CSDQA\diagram\Binary-tree\Binary_67.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>117</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>6</ymin>
+			<xmax>108</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

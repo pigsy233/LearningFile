@@ -1,0 +1,5 @@
+1.What does thread1 want?
+A.resource1   B.resource2   C.thread2   D.all
+2.The resource2 is locked by thread1.
+True   False
+B,False

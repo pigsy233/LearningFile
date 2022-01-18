@@ -1,0 +1,9 @@
+1.What is the second node of the binary tree traversed in pre-order？
+A.3   B.5   C.1   D.7
+2.This binary tree is a binary search tree.
+True    False
+3.How many generations of ancestor nodes does node 7 have?
+A.1   B.5   C.2   D.4
+4.The node 5 can have 1 more child node.
+True    False
+B,True,C,True

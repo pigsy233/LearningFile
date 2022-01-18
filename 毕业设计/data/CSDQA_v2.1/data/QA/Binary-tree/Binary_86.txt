@@ -1,0 +1,9 @@
+1.What is the third node of the binary tree traversed in post order?
+A.3   B.4   C.6   D.D
+2.This binary tree is a balanced binary tree.
+True    False
+3.Which is the left node of the left node of node 3?
+A.0   B.1   C.2   D.None
+4.The node 3 can have 2 more child nodes.
+True    False
+B,True,D,True

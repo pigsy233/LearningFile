@@ -1,0 +1,5 @@
+1.What requests for R1?
+A.p1   B.p2   C.p3   D.p4
+2.R1 is allocated to p2 and p4.
+True   False
+A,False

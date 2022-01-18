@@ -1,0 +1,5 @@
+1.How many edges are there in the graph
+A.4   B.5   C.6   D.7
+2.There is an element with content A in the graph.
+True    False
+D,False

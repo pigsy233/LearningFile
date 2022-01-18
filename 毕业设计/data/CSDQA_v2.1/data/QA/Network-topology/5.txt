@@ -1,0 +1,5 @@
+1. How many computers in the network ?
+A. 5 B.7 C.8 D.9
+2. There are three nodes in one branch.
+True False
+D,True

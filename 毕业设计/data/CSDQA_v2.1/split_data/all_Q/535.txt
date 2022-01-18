@@ -1,0 +1,5 @@
+1.The number of the head node in the list?
+A.1   B.2   C.3   D.4
+2.The last node's data is e.
+True    False
+A,True

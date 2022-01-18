@@ -1,0 +1,5 @@
+1.The first index in the list?
+A.0   B.1   C.2   D.3
+2.The array length is 5.
+True    False
+A,False

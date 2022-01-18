@@ -1,0 +1,5 @@
+1.The insert value of the linked list?
+A.11   B.10   C.23   D.7
+2.You can delete 23 in the current list.
+True    False
+B,True

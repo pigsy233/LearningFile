@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.array_list   B.flowchart   C.undirected_graph   D.none
+2.This is a diagram talking about flowchart.
+True   False
+B,True

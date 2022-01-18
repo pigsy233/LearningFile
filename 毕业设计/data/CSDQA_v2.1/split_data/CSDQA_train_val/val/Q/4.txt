@@ -1,0 +1,5 @@
+1.The content in the low index?
+A.2   B.3   C.4   D.5
+2.The middle content is 12 in the list.
+True    False
+D,False

@@ -1,0 +1,5 @@
+1.What is this diagram talking about?
+A.flowchart   B.deadlock   C.undirected_graph   D.network_topology
+2.Thread “A” is in deadlock with thread “B”.
+True   False
+B,True

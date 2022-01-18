@@ -1,0 +1,5 @@
+1.How many nodes in the current list?
+A.1   B.2   C.3   D.5
+2.The insert value is 7 in the list.
+True    False
+D,True

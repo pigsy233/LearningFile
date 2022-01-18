@@ -1,0 +1,5 @@
+1.The middle value in the list?
+A.9   B.6   C.10   D.13
+2.The index of 3 is 2.
+True    False
+B,True

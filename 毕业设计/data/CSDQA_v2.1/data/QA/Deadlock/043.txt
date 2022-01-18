@@ -1,0 +1,5 @@
+1.What is this diagram describing?
+A.array_list   B.directed_graph   C.flowchart   D.deadlock
+2.Thread 1 is waiting for M2.
+True   False
+D,True

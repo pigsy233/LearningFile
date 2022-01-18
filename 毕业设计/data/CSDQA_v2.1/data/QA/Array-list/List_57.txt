@@ -1,0 +1,5 @@
+1.The middle value of the current list is?
+A.1   B.5   C.17  D.3
+2.You can delete 21 in the list.
+True    False
+C,True

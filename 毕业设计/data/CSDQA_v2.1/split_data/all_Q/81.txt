@@ -1,0 +1,5 @@
+1.The size of the current list is?
+A.7   B.11   C.3  D.6
+2.The value of index 3 in the current list is SUN.
+True    False
+B,True

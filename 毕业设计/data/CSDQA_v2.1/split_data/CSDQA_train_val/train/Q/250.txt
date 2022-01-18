@@ -1,0 +1,5 @@
+1.What is resource 2 assigned to?
+A.process 1   B.process 2   C.both   D.resource 1
+2.Resource 1 is assigned to process 2.
+True   False
+B,False

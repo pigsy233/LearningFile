@@ -1,0 +1,5 @@
+1.What is process b waiting for?
+A.y   B.x   C.process a   D.none
+2.Process a locks x.
+True   False
+B,True

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Binary-tree</folder>
+	<filename>Binary_148.png</filename>
+	<path>D:\temp\CSDQA\diagram\Binary-tree\Binary_148.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>315</width>
+		<height>221</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>21</ymin>
+			<xmax>273</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

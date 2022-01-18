@@ -1,0 +1,5 @@
+1.The name of the array?
+A.a   B.b   C.c   D.d
+2.The id of the first value of the array is not 2.
+True    False
+A,True

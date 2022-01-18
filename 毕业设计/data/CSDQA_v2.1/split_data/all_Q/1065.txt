@@ -1,0 +1,9 @@
+1.What is the content of the element at the top of the stack?
+A.2   B.12   C.3   D.4
+2.There are 4 elements in the stack.
+True    False
+3.At least how many pop operations are needed to pop the element 3?
+A.1   B.2   C.3   D.0
+4.After two pop operations, the stack will be empty.
+True    False
+A,False,B,False

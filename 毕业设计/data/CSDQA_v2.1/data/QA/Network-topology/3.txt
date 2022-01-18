@@ -1,0 +1,5 @@
+1. What is the topology of the network ?
+A. line-to-line B.Star C.Ring D.Bus
+2. There are five nodes in the network.
+True False
+C,False

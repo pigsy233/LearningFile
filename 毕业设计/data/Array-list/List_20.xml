@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Array-list</folder>
+	<filename>List_20.png</filename>
+	<path>D:\temp\CSDQA\diagram\Array-list\List_20.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>106</width>
+		<height>316</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>list</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>53</ymin>
+			<xmax>91</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,5 @@
+1.What kind of mapping relationship is in the figure?
+A.One to one   B.One to many   C.BI-Directional   D.Many to one
+2.There are four nodes in the graph.
+True    False
+D,True

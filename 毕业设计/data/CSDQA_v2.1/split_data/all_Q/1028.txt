@@ -1,0 +1,9 @@
+1.What is the bottom element of the stack?
+A.0   B.3   C.2   D.1
+2.Element 2 has just been pushed into the stack.
+True    False
+3.Which element will the Top element point to after a pop operation?
+A.7   B.2   C.8   D.1
+4.Element 8 cannot be popped out of the stack before element 1.
+True    False
+C,True,C,False

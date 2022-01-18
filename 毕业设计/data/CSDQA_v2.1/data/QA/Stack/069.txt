@@ -1,0 +1,9 @@
+1.What is the address of the top of the stack?
+A.0   B.-1   C.2   D.1
+2.This is an empty stack.
+True    False
+3.Which address will the Top element point to after a push operation?
+A.a[0]   B.a[1]   C.a[2]   D.a[3]
+4.The top and bottom of the stack are the same element.
+True    False
+B,True,A,True

@@ -1,0 +1,9 @@
+1.What is the content of the root node of this binary tree?
+A.A   B.B   C.C   D.7
+2.The root node of this binary tree has no left subtree.
+True    False
+3.How many nodes are grandchildren of A?
+A.1   B.2   C.3   D.4
+4.Node A can also have another child node.
+True    False
+A,False,D,False

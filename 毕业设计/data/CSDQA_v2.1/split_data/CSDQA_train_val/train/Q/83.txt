@@ -1,0 +1,5 @@
+1.The space of the current list is?
+A.7   B.11   C.12  D.6
+2.The value of index 4 in the current list is not g.
+True    False
+C,True

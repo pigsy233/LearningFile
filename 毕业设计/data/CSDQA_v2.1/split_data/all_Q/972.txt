@@ -1,0 +1,9 @@
+1.What is the content of the element at the top of the stack?
+A.1   B.E   C.B   D.D
+2.This is a queue.
+True    False
+3.After a pop operation, which element is the top of the stack pointing to?
+A.A   B.B   C.C   D.D
+4.A will not pop out of the stack before C.
+True    False
+B,False,D,True

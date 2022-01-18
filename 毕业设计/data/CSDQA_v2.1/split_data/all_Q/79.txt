@@ -1,0 +1,5 @@
+1.The last value of the list is?
+A.5   B.20   C.3  D.6
+2.The value of index 3 is 1.
+True    False
+C,False

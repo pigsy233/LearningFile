@@ -1,0 +1,5 @@
+1.The size of the list?
+A.1   B.b   C.c   D.n
+2.You can not find head node in the diagram.
+True    False
+D,False

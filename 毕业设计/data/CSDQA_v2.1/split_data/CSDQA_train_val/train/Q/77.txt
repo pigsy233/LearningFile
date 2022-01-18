@@ -1,0 +1,5 @@
+1.The length of the list is?
+A.9   B.20   C.23  D.6
+2.You can find 25 in the current list.
+True    False
+A,True

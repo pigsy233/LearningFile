@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stack</folder>
+	<filename>118.png</filename>
+	<path>C:\Users\lenovo\Desktop\Stack\118.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>402</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>18</ymin>
+			<xmax>238</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

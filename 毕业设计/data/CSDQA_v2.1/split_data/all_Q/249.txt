@@ -1,0 +1,5 @@
+1.What is transaction 2 requesting for?
+A.resource 1   B.resource 2   C.both   D.neither
+2.Resource 1 is requested by both transaction 1 and transaction 2. 
+True   False
+C,True

@@ -1,0 +1,5 @@
+1.What is this diagram talking about?
+A.deadlock   B.undirected_graph   C.flowchart   D.binary_tree
+2.This is a diagram describing flowchart.
+True   False
+A,False

@@ -1,0 +1,5 @@
+1.What is r2 requested by?
+A.p1   B.p2   C.p3   D.none
+2.P1 is holding r1.
+True   False
+A,True

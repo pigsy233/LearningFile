@@ -1,0 +1,5 @@
+1.The last value of the list is?
+A.7   B.1   C.2  D.3
+2.The last value of the current list is 17.
+True    False
+A,False

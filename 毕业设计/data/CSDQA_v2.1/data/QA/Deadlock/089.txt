@@ -1,0 +1,5 @@
+1.What is r2 waiting for?
+A.p1   B.r1   C.p2   D.all
+2.P2 is holding r1.
+True   False
+A,True

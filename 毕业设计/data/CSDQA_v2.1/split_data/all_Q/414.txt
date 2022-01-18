@@ -1,0 +1,5 @@
+1.What is the first step of this flowchart?
+A.requiements   B.shortlist the vendors   C.assess the shortlisted vendors   D.select the software
+2.The last step of this flowchart is "select the software".
+True   False
+A,True

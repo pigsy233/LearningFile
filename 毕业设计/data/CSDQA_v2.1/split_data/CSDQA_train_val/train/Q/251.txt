@@ -1,0 +1,5 @@
+1.What does process 2 require?
+A.resource b   B.resource a   C.process 1   D.none
+2.Process 1 requires resource a.
+True   False
+A,True

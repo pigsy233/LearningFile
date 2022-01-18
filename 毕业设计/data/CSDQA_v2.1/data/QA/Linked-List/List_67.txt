@@ -1,0 +1,5 @@
+1.The value of second node in the current list?
+A.p   B.q   C.b   D.c
+2.You can not find q in the linked list.
+True    False
+B,False

@@ -1,0 +1,5 @@
+1.What is r3 allocated to?
+A.p1   B.p2   C.p3   D.none
+2.R2 is allocated to p1 and p2.
+True   False
+C,True

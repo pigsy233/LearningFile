@@ -1,0 +1,5 @@
+1.What has thread1 already acquired?
+A.obj2   B.obj1   C.either   D.thread2
+2.The thread2 needs obj1.
+True   False
+B,True

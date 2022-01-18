@@ -1,0 +1,5 @@
+1.How many nodes are there in the graph?
+A.7   B.4   C.5   D.6
+2.This is a directed acyclic graph.
+True    False
+D,False

@@ -1,0 +1,5 @@
+1.The first node's value in the list is?
+A.23   B.15   C.20   D.12
+2.You can not find 10 in the current linked list.
+True    False
+C,True

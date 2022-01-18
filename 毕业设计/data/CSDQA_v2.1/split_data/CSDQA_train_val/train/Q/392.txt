@@ -1,0 +1,5 @@
+1.What is before the step "B" ?
+A.a   B.c   C.d   D.none
+2.This is a deadlock.
+True   False
+A,False

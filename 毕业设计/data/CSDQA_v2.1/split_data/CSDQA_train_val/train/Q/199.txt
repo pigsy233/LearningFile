@@ -1,0 +1,9 @@
+1.What is the third node of the binary tree traversed in level order?
+A.A   B.B   C.C   D.4
+2.There is an element with content C in the binary tree.
+True    False
+3.Which is the left node of the left node of node A?
+A.B   B.D   C.E   D.F
+4.If delete 2 nodes, the tree may be a complete binary tree.
+True    False
+C,True,B,False

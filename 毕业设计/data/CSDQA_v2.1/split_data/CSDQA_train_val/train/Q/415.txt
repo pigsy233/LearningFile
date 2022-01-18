@@ -1,0 +1,5 @@
+1.What is the last step of this flowchart?
+A.patient arrives at clinic   B.patient is seen by a doctor   C.patient leaves clinic   D.none
+2.The firt step of this flowchart is "patient arrives at clinic".
+True   False
+C,True

@@ -1,0 +1,5 @@
+1.What is the diagram mainly talking about?
+A.deadlock   B.bianry_tree   C.non_binary_tree   D.flowchart
+2.This diagram is mainly describing binary_tree.
+True   False
+D,False

@@ -1,0 +1,9 @@
+1.How many empty elements are in the stack?
+A.4   B.3   C.2   D.1
+2.3 is the content of the top element in the stack.
+True    False
+3.How many elements are in the stack after completing a push operation?
+A.1   B.2   C.3   D.4
+4.There is no element in the stack with the same content.
+True    False
+A,True,D,True

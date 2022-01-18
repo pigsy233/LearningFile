@@ -1,0 +1,5 @@
+1.Which step is before step “Get current temp” ?
+A.start   B.power=on   C.get target temp   D.heat off
+2.The step “Power=on” is after step “start”.
+True   False
+C,True

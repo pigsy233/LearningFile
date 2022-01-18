@@ -1,0 +1,5 @@
+1.The first content in the array?
+A.5   B.9   C.3   D.20
+2.The length of the array is 5.
+True    False
+A,False

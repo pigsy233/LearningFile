@@ -1,0 +1,5 @@
+1.Which step is after the step “data” ?
+A.decision   B.a   C.document   D.process
+2.The step “desicion” is after step “process” in this diagram.
+True   False
+C,True

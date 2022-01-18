@@ -1,0 +1,5 @@
+1.What is t2 requesting for?
+A.r1   B.r2   C.both   D.neither
+2.T1 is using r2 now.
+True   False
+A,False

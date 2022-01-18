@@ -1,0 +1,5 @@
+1.What is resource b locked by?
+A.resource a   B.thread b   C.thread a   D.all
+2.Thread a locked resource a.
+True   False
+B,True

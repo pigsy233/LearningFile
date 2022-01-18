@@ -1,0 +1,5 @@
+1.The first content in the list?
+A.0   B.1   C.2   D.3
+2.The length of this arraylist is five.
+True    False
+A,False

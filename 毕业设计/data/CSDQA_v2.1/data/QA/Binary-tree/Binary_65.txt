@@ -1,0 +1,9 @@
+1.What is the depth of the binary tree？
+A.1   B.2   C.3   D.4
+2.This binary tree is not a full binary tree.
+True    False
+3.How many generations of ancestor nodes does node 10 have?
+A.1   B.3   C.2   D.4
+4.The node 10 can have 2 more child nodes.
+True    False
+D,True,B,True

@@ -1,0 +1,5 @@
+1.What is A requesting for?
+A.b   B.a   C.i   D.j
+2.B is requesting for j.
+True   False
+D,False

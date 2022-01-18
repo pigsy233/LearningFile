@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Non-binary-tree</folder>
+	<filename>Non_binary_50.png</filename>
+	<path>C:\Users\11252\Desktop\diagram\Non-binary-tree\Non_binary_50.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>148</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>root</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>7</ymin>
+			<xmax>191</xmax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
+</annotation>

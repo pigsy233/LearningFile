@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.directed_graph   B.bianry_tree   C.network_topology   D.flowchart
+2.This diagram describes a flowchart.
+True   False
+D,True

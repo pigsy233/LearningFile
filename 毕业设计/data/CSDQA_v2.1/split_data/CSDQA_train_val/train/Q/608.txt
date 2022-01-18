@@ -1,0 +1,5 @@
+1.What gate circuit is this circuit？
+A.AND   B.OR   C.NAND   D.XOR
+2.If the inputs are all high, the circuit will output low.
+True    False
+C,True

@@ -1,0 +1,5 @@
+1.What is this diagram describing?
+A.network_topology   B.array_list   C.directed_graph   D.deadlock
+2.Process 1 is in deadlock with process 2.
+True   False
+D,True

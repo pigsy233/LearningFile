@@ -1,0 +1,5 @@
+1.What is before the step "create an account"?
+A.sign in   B.open gmail site in browser   C.existing or new user?   D.start
+2.The step after "open gmail site in browser" is "existing or new user?".
+True   False
+C,True

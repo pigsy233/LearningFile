@@ -1,0 +1,9 @@
+1.How many elements are in the stack?
+A.0   B.3   C.2   D.1
+2.An element is pushed in the stack.
+True    False
+3.At least how many pop operations are needed to pop the bottom element?
+A.1   B.2   C.3   D.0
+4.After two pop operations, the stack will be empty.
+True    False
+C,True,B,True

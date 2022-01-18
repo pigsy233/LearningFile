@@ -1,0 +1,5 @@
+1.How many OR Gates does the circuit have？
+A.1   B.2   C.3   D.4
+2.There are three output ports in this circuit.
+True    False
+B,False

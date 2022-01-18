@@ -1,0 +1,5 @@
+1.How many AND Gates are there in this circuit？
+A.0   B.1   C.2   D.3
+2.This is a latch.
+True    False
+A,True

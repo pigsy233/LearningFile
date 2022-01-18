@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flowchart</folder>
+	<filename>76.png</filename>
+	<path>C:\Users\CYT\Desktop\CSDQA_v2.1\CSDQA_v2.1\data\diagram\Flowchart\76.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>diagram</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>13</ymin>
+			<xmax>256</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

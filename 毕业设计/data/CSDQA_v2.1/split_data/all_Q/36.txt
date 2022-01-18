@@ -1,0 +1,5 @@
+1.The middle element in the array?
+A.5   B.9   C.3   D.20
+2.The highest index of the array is 4.
+True    False
+A,False

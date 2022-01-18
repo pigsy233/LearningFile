@@ -1,0 +1,5 @@
+1.The third element in the array?
+A.4   B.9   C.3   D.20
+2.The size of the array is 4.
+True    False
+B,True

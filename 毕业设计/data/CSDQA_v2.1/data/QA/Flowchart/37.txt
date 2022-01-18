@@ -1,0 +1,5 @@
+1.What is this diagram mainly talking about?
+A.deadlock   B.array_list   C.flowchart   D.directed_graph
+2.This is an undirected_graph.
+True   False
+C,False

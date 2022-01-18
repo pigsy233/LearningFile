@@ -1,0 +1,5 @@
+1.What will the output be if the inputs are all true？
+A.1   B.0   C.X   D.Don't know
+2.The output will be true if A input is false and B input is true.
+True    False
+B,True

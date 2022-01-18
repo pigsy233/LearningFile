@@ -1,0 +1,5 @@
+1.The size of the current list is?
+A.8   B.2   C.3  D.6
+2.You can delete 30 in the current list.
+True    False
+A,True

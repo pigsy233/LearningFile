@@ -1,0 +1,9 @@
+1.How many elements are in the stack?
+A.12   B.3   C.1   D.2
+2.Element 12 will be pushed into the stack.
+True    False
+3.At least how many pop operations are needed to pop element a1?
+A.1   B.2   C.3   D.4
+4.The top and bottom of the stack are the same element.
+True    False
+D,False,B,False

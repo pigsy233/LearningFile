@@ -1,0 +1,5 @@
+1.How many Networks in the graph?
+A.2   B.3   C.4   D.5
+2.The Three Networks are connected by 2 Routers in the graph.
+True    False
+B,True

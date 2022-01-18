@@ -1,0 +1,5 @@
+1.How many nodes of the linked list?
+A.3   B.2   C.1   D.7
+2.You can not search 10 in the current list.
+True    False
+A,False

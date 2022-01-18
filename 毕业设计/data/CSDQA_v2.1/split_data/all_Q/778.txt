@@ -1,0 +1,5 @@
+1.How many nodes are there in the second level of the tree?
+A.less than 3   B.3   C.4   D.more than 4
+2.There is a node with three child nodes in the tree.
+True    False
+B,True

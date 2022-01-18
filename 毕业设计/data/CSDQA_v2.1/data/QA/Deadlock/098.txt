@@ -1,0 +1,5 @@
+1.What is this diagram describing?
+A.undirected_graph   B.flowchart   C.network_topology   D.deadlock
+2.This diagram is mainly about non_binary_tree.
+True   False
+D,False

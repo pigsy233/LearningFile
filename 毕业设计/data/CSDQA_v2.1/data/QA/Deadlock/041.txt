@@ -1,0 +1,5 @@
+1.What is the content of this diagram?
+A.deadlock   B.flowchart   C.directed_graph   D.binary_tree
+2.Thread a tries locking other_lock.
+True   False
+A,True

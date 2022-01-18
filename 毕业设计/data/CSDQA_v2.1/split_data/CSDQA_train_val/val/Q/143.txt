@@ -1,0 +1,9 @@
+1.What is the forth node of the binary tree traversed in in order？
+A.60   B.45   C.20   D.30
+2.This binary tree is not a complete binary tree.
+True    False
+3.At least how many more nodes need to be added to this tree to become a complete binary tree?
+A.0   B.1   C.3   D.4
+4.The node 20 can have 2 more child nodes.
+True    False
+B,True,B,True

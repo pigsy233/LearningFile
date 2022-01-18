@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.flowchart   B.undirected_graph   C.binary_tree   D.deadlock
+2.This diagram is mainly talking about flowchart.
+True   False
+D,False

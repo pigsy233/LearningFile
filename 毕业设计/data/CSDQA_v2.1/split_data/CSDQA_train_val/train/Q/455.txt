@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.flowchart   B.deadlock   C.directed_graph   D.non_binary_tree
+2.This is a non_binary_tree.
+True   False
+A,False

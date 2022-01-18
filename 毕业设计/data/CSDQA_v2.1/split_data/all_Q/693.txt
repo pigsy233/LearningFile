@@ -1,0 +1,5 @@
+1.How many Nodes in the graph?
+A.2   B.3   C.4   D.5
+2.There are 4 lines in the graph.
+True    False
+D,True

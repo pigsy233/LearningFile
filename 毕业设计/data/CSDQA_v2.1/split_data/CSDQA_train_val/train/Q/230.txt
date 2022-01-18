@@ -1,0 +1,5 @@
+1.Which thread made lock 1?
+A.thread 1   B.thread 2   C.neither   D.both
+2.Thread 2 is waiting for lock1 to be released.
+True   False
+A,True

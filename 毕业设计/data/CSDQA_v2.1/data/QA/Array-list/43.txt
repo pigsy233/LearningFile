@@ -1,0 +1,5 @@
+1.The second content in the array?
+A.5   B.9   C.33   D.20
+2.The length of the array is 15.
+True    False
+C,False

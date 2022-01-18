@@ -1,0 +1,5 @@
+1.The fifth element in the array?
+A.4   B.15   C.3   D.20
+2.The size of the array is 8.
+True    False
+B,False

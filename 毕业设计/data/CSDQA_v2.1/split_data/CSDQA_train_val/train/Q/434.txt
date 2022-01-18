@@ -1,0 +1,5 @@
+1.Which step is directly before the step “did you find it?”?
+A.start   B.do you need it?   C.none   D.look for lost item
+2.The first step is “start” according to the diagram.
+True   False
+D,True

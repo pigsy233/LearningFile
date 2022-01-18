@@ -1,0 +1,5 @@
+1.The element behind 2 in the array?
+A.4   B.6   C.3   D.20
+2.You can find 66 in the array.
+True    False
+C,False

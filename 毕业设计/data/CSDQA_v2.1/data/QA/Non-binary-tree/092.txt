@@ -1,0 +1,5 @@
+1.How many nodes in the second level of the tree?
+A.3  B.4   C.5   D.6
+2.The content of root node is a number.
+True    False
+B,True

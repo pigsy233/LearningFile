@@ -1,0 +1,5 @@
+1.How many levels are there in the tree?
+A.less than 3   B.3   C.4   D.more than 4
+2.The content of root node is a number.
+True    False
+B,True

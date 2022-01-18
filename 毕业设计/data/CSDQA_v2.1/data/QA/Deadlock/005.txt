@@ -1,0 +1,5 @@
+1.What is thread 2 waiting for?
+A.resource 1   B.thread 1   C.resource 2   D.thread 2
+2.Resource 2 is rignt now owned by thread 1.
+True   False
+C,True

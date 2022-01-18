@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.flowchart   B.binary_tree   C.deadlock   D.undirected_graph
+2.This is a diagram of deadlock condition.
+True   False
+C,True

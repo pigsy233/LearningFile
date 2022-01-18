@@ -1,0 +1,5 @@
+1.Which step is before the step "new contact info?"?
+A.client arrives at practice   B.complete contact update form   C.confirm the purpose of their visit   D.escort client to exam room
+2.The diagram is mainly describing network_topology.
+True   False
+C,False

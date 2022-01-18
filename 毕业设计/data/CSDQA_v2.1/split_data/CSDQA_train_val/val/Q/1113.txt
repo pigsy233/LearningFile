@@ -1,0 +1,5 @@
+1.Which of the following is the neighbor of node A?
+A.E   B.F   C.C   D.D
+2.This is an undirected unconnected graph.
+True    False
+C,True

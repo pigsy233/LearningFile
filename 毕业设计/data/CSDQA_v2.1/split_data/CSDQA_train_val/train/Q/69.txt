@@ -1,0 +1,5 @@
+1.The value of the second index of the array is?
+A.5   B.6   C.3  D.8
+2.Xiao Ming can find 8 in the current array.
+True    False
+C,True

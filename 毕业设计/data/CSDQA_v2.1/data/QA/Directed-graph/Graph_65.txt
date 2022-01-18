@@ -1,0 +1,5 @@
+1.How many nodes are there in the graph?
+A.3   B. 4   C.5   D.6
+2.There is an element with content A in the graph.
+True    False
+A,False

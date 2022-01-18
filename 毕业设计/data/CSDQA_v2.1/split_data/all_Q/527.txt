@@ -1,0 +1,5 @@
+1.The length of the list?
+A.2   B.5   C.3   D.n
+2.You can not find a head node in the list.
+True    False
+D,False

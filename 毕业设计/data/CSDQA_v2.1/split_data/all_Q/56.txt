@@ -1,0 +1,5 @@
+1.The size of the arraylist?
+A.5   B.4   C.7   D.3
+2.The list is not null.
+True    False
+C,True

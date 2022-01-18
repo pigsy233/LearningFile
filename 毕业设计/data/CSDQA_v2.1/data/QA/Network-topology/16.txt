@@ -1,0 +1,5 @@
+1. How many edges in the diagram?
+A.10 B.11 C.12 D.18
+2. It is a hybrid structure.
+True False
+D,True

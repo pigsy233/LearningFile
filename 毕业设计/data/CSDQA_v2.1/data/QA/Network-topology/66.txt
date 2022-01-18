@@ -1,0 +1,5 @@
+1.What is the black part in the graph?
+A.Connector   B.Terminator   C.PC   D.BNC plug
+2.There are six PCs in the queue.
+True    False
+B,False

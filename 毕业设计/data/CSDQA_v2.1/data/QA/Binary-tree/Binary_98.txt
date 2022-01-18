@@ -1,0 +1,9 @@
+1.What is the third node of the binary tree traversed in level order?
+A.0   B.1   C.2   D.3
+2.There is an element with content 0 in the binary tree.
+True    False
+3.At least how many nodes with content 0 are deleted, the tree can become a complete binary tree?
+A.0   B.1   C.2   D.3
+4.If add 2 nodes, the tree may be a complete binary tree.
+True    False
+A,True,D,False

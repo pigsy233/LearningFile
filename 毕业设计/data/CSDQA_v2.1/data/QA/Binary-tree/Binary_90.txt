@@ -1,0 +1,9 @@
+1.What is the third node of the binary tree traversed in post order?
+A.23   B.35   C.6   D.40
+2.This binary tree is not a balanced binary tree.
+True    False
+3.Which is the right node of the right node of node 32?
+A.32   B.23   C.35   D.40
+4.The node 35 can have 2 more child nodes.
+True    False
+B,False,D,True

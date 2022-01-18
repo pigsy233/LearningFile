@@ -1,0 +1,5 @@
+1.How many nodes of the linked list?
+A.3   B.10   C.23   D.7
+2.You can remove 23 in the current list.
+True    False
+A,True

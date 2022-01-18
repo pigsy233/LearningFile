@@ -1,0 +1,5 @@
+1.How many nodes are there in the tree?
+A.4   B.5   C.6   D.7
+2.There is a node with three child nodes in the tree.
+True    False
+C,True

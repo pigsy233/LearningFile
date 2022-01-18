@@ -1,0 +1,5 @@
+1.How many NAND Gates does the circuit have？
+A.1   B.2   C.3   D.4
+2.The function of this circuit is equal to an NOR Gate.
+True    False
+D,True

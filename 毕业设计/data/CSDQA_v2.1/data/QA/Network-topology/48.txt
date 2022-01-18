@@ -1,0 +1,5 @@
+1. What is the topology of the network?
+A. mesh B. star C.line D.bus
+2.There are 6 nodes.
+True False
+D,True

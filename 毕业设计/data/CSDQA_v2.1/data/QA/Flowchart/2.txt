@@ -1,0 +1,5 @@
+1.Which step is before the step “Replace bulb” ?
+A.Plug in lamp   B.replace bulb   C.bulb burned out?   D.repair lamp
+2.The step “Lamp plugged in?” is before the step “Bulb burned out?”.
+True   False
+C,True

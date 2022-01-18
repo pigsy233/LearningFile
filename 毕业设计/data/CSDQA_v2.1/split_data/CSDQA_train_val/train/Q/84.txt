@@ -1,0 +1,5 @@
+1.The first value of the list is?
+A.5   B.20   C.23  D.6
+2.The value of index 4 is not 1.
+True    False
+C,True

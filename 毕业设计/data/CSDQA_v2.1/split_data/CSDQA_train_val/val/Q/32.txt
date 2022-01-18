@@ -1,0 +1,5 @@
+1.The second element in the array?
+A.4   B.5   C.3   D.20
+2.The length of the array is 3.
+True    False
+B,False

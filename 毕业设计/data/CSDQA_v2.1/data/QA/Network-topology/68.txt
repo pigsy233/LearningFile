@@ -1,0 +1,5 @@
+1.What is the total quantity of Main Office and Branch Office in the graph?
+A.3   B.4   C.5   D.6
+2.There are two Branch Office in the graph.
+True    False
+C,False

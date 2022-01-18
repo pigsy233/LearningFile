@@ -1,0 +1,9 @@
+1.What is the third node of the binary tree traversed in pre-order？
+A.45   B.24   C.12   D.37
+2.This binary tree is not a binary search tree.
+True    False
+3.At least how many more nodes need to be added to this tree to become a complete binary tree?
+A.1   B.2   C.3   D.4
+4.The node 12 can have 2 more child nodes.
+True    False
+C,False,A,True

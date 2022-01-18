@@ -1,0 +1,5 @@
+1.What is process 2 requesting for?
+A.resource 2   B.resource 1   C.neither   D.both
+2.Process 3 is requesting for resource 1 and resource 2.
+True   False
+B,True

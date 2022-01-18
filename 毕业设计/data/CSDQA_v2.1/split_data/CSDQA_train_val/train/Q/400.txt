@@ -1,0 +1,5 @@
+1.What form is this diagram in?
+A.array_list   B.deadlock   C.undirected_graph   D.flowchart
+2.This diagram describes a deadlock condition.
+True   False
+D,False

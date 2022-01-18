@@ -1,0 +1,5 @@
+1.The inserted value is?
+A.x   B.a   C.b   D.c
+2.You can remove b in the current list.
+True    False
+A,True

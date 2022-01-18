@@ -1,0 +1,5 @@
+1.Which step is before the step “did you find it?” ?
+A.start   B.look for lost item   C.do you need it   D.all
+2.The step “look for lost item” is after the step “start”.
+True   False
+B,True

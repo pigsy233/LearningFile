@@ -1,0 +1,5 @@
+1.The type of the object?
+A.list   B.array   C.tree   D.graph
+2.You can not remove the data in the linked list.
+True    False
+A,False

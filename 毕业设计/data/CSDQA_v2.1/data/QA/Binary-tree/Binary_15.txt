@@ -1,0 +1,9 @@
+1.How many nodes does this binary tree have？
+A.3   B.9   C.5   D.7
+2.This binary tree has three leaf nodes.
+True    False
+3.Which is the left child of the right child of the root node?
+A.9   B.35   C.28   D.39
+4.If node 28 has two child nodes, the tree will become a complete binary tree.
+True    False
+B,False,C,False

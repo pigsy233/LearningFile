@@ -1,0 +1,5 @@
+1.What is the content of this diagram?
+A.directed_graph   B.undirected_graph   C.flowchart   D.deadlock
+2.This is a diagram of undirected_graph.
+True   False
+D,False

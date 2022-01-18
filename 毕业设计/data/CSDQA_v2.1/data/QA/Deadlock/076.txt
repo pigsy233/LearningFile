@@ -1,0 +1,5 @@
+1.What is the printer waiting for?
+A.p1   B.p2   C.itself   D.dvd drive
+2.DVD drive is holding p1.
+True   False
+A,True

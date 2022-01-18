@@ -1,0 +1,5 @@
+1.The type of the object in the diagram?
+A.linked list   B.array   C.tree   D.graph
+2.This is a list.
+True    False
+A,True

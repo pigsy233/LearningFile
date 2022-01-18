@@ -1,0 +1,9 @@
+1.How many stacks are there in the diagram?
+A.2   B.4   C.6   D.8
+2.The s2 stack is about to be pushed.
+True    False
+3.How many elements are there on the right stack after one operation?
+A.1   B.2   C.3   D.0
+4.The elements in the left stack will decrease.
+True    False
+A,True,A,True

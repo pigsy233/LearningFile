@@ -1,0 +1,5 @@
+1.The index of the first value?
+A.2   B.1   C.3   D.4
+2.There is a head node in the list.
+True    False
+B,True

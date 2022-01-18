@@ -1,0 +1,5 @@
+1.The middle value of the list is?
+A.4   B.1   C.2  D.3
+2.There are 7 values in the current list.
+True    False
+A,True

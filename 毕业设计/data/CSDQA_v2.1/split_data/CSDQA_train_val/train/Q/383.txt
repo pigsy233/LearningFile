@@ -1,0 +1,5 @@
+1.What is after the step "squared" ?
+A.rhoomnus!   B.flag shape   C.circle   D.rounded
+2.The step "circle" is after "rhombus!".
+True   False
+A,True

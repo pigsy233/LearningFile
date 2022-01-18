@@ -1,0 +1,9 @@
+1.What is the second node of the binary tree traversed in post order?
+A.A   B.B   C.C   D.D
+2.This binary tree is a balanced binary tree.
+True    False
+3.Which is the left node of the left node of node C?
+A.G   B.B   C.C   D.D
+4.The node F can have 2 more child nodes.
+True    False
+B,True,A,False

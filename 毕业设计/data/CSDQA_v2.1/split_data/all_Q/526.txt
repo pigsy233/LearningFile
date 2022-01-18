@@ -1,0 +1,5 @@
+1.The head pointer is?
+A.2   B.0900   C.3   D.4
+2.There is not a head node in the list.
+True    False
+B,False

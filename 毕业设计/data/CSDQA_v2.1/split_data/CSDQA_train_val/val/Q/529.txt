@@ -1,0 +1,5 @@
+1.The type of the object?
+A.array   B.tree   C.quene   D.list
+2.There is a head node in the list.
+True    False
+D,True

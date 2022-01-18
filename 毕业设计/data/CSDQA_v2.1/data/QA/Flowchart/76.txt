@@ -1,0 +1,5 @@
+1.What is this diagram describing?
+A.flowchart   B.network_topology   C.directed_graph   D.deadlock
+2.This diagram describes a directed_graph.
+True   False
+A,False

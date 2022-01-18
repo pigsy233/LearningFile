@@ -1,0 +1,5 @@
+1.The type of the object in the diagram?
+A.array   B.list   C.numpy   D.tree
+2.There are 4 nodes in the list.
+True    False
+B,False

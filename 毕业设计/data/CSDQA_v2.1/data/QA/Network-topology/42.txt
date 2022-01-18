@@ -1,0 +1,5 @@
+1. How many nodes in the diagram?
+A. 1 B.4 C.5 D.10
+2. It is a hierarchical structure.
+True False
+C,False

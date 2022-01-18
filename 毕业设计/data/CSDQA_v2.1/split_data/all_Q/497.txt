@@ -1,0 +1,5 @@
+1.The index of the last node?
+A.a   B.b   C.c   D.n
+2.There is no head node in the diagram.
+True    False
+D,False

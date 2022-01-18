@@ -1,0 +1,5 @@
+1.The last index of the current list is?
+A.7   B.11   C.5  D.6
+2.The size of the current list is not 9.
+True    False
+C,True

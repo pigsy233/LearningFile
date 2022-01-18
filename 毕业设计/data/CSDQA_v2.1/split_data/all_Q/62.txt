@@ -1,0 +1,5 @@
+1.The size of the array is?
+A.1   B.7   C.2  D.3
+2.You can find 5 in the array.
+True    False
+B,True

@@ -23,7 +23,7 @@ The output of the target function ƒ is "scalar"
 
 ### Gradient Descent
 
-#### Loss formula
+#### Loss function(square loss)
 
 <img src="Source/image-20220109211401259.png" alt="image-20220109211401259" style="zoom:67%;" />
 
@@ -43,7 +43,17 @@ Adapt learning rate
 
 ## Logistic regression
 
+loss function use **hinge loss**, not square loss, for its' performence.
 
+![image-20220115222252400](Source/image-20220115222252400.png)
+
+在对待已训练好的example时，hinge loss 选择无视，而cross entropy则仍有loss下降带来的驱动力
+
+hinge loss 适合有outlier的情况，而cross entropy则会陷于outlier无法自拔
+
+![image-20220115223531550](Source/image-20220115223531550.png)
+
+上下二式在minimizing的情况下是相同的，可以转化，故而可以对loss function进行微分，从而进行gradient descent。
 
 ## **判别模型（Discriminative Model）**
 

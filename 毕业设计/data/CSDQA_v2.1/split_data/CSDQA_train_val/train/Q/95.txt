@@ -1,0 +1,5 @@
+1.The current length of the current list is?
+A.n   B.a   C.b  D.c
+2.The index of the first value of the current list is 0.
+True    False
+A,True

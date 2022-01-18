@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.flowchart   B.directed_graph   C.undirected_graph   D.deadlock
+2.This is a flowchart.
+True   False
+A,True

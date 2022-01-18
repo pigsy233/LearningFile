@@ -1,0 +1,5 @@
+1.How many devices are there around Hub in the graph?
+A.3   B.4   C.5   D.6
+2.The type of topology is star in the graph.
+True    False
+B,True

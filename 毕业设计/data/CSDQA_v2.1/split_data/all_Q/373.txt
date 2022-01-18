@@ -1,0 +1,5 @@
+1.What is before the step “condition?” ?
+A.do task   B.start   C.end   D.none
+2.This diagram describes flowchart.
+True   False
+A,True

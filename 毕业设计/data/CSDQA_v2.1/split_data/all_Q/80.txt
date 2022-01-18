@@ -1,0 +1,5 @@
+1.The size of the current list is?
+A.7   B.2   C.3  D.6
+2.The total numbers you can store in the current list is 9.
+True    False
+A,True

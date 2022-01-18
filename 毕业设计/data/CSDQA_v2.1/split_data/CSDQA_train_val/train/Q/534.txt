@@ -1,0 +1,5 @@
+1.The second data of the node in the list?
+A.1   B.2   C.e   D.q
+2.The value of next node of p is e.
+True    False
+C,True

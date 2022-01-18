@@ -1,0 +1,9 @@
+1.How many empty elements are in the stack?
+A.1   B.2   C.3   D.4
+2.The content of the element at the top of the stack is C.
+True    False
+3.How many empty elements are in the stack after a pop operation?
+A.1   B.2   C.3   D.4
+4.C will not pop out of the stack before B.
+True    False
+D,False,C,False

@@ -1,0 +1,5 @@
+1.What kind of gate circuit is there in this circuit？
+A.AND   B.OR   C.XOR   D.NOT
+2.When the two inputs are opposite to each other, the output of the circuit is true.
+True    False
+C,True

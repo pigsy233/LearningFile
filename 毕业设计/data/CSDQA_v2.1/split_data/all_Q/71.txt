@@ -1,0 +1,5 @@
+1.The size of the array is?
+A.5   B.9   C.3  D.6
+2.Xiao Hong said there are ten values in the current array.
+True    False
+B,False

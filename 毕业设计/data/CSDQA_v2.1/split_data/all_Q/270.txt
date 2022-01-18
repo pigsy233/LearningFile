@@ -1,0 +1,5 @@
+1.What is P3 holding?
+A.r1   B.r2   C.r3   D.all
+2.P2 is requesting for r3.
+True   False
+C,True

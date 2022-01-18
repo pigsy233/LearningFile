@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Queue</folder>
+	<filename>Queue_16.png</filename>
+	<path>C:\Users\lenovo\Desktop\Queue\Queue_16.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>232</ymin>
+			<xmax>163</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

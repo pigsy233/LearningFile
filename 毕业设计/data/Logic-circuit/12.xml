@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Logic-circuit</folder>
+	<filename>12.png</filename>
+	<path>C:\Users\lenovo\Desktop\diagram\Logic-circuit\12.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>139</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>input port</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>43</ymin>
+			<xmax>76</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>circuit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>33</ymin>
+			<xmax>415</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>output port</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>47</ymin>
+			<xmax>417</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

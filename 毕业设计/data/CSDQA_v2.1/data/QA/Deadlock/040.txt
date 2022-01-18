@@ -1,0 +1,5 @@
+1.What is resource 2 wanted by?
+A.session2   B.session1   C.both   D.neither
+2.Resource 1 is holded by session 1.
+True   False
+B,True

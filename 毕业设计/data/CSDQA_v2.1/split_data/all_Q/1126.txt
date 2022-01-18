@@ -1,0 +1,5 @@
+1.How many nodes are there in the graph?
+A.5   B.2   C.3   D.4
+2.The degree of node A is 3.
+True    False
+A,Fasle

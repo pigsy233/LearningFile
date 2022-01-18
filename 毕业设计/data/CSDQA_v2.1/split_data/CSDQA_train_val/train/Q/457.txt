@@ -1,0 +1,5 @@
+1.What is after step “process” ?
+A.start   B.end   C.input   D.process
+2.The step “input” is before the step “start” in this diagram.
+True   False
+B,False

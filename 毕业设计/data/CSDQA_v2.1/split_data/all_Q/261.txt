@@ -1,0 +1,5 @@
+1.What is the diagram describing?
+A.deadlock   B.array_list   C.undirected_graph   D.network_topology
+2.This is a diagram of flowchart.
+True   False
+A,False

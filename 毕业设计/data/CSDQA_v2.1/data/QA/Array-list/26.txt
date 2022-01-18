@@ -1,0 +1,5 @@
+1.The length of the list?
+A.9   B.6   C.12   D.10
+2.23 is lower than 38.
+True    False
+D,True

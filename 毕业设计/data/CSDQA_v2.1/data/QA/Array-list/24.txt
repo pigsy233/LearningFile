@@ -1,0 +1,5 @@
+1.How long is the list?
+A.9   B.6   C.5   D.10
+2.23 is the former element of 56.
+True    False
+D,True

@@ -1,0 +1,5 @@
+1.What blocked txn A?
+A.txn b   B.001   C.003   D.002
+2.Txn a and txn b are deadlocked.
+True   False
+A,True

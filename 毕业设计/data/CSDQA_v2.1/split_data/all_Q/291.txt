@@ -1,0 +1,5 @@
+1.What is r2 requested by?
+A.t2   B.t1   C.both   D.neither
+2.T2 is requesting for r1.
+True   False
+B,True

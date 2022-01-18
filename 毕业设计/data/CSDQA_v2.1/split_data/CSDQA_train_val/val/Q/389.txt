@@ -1,0 +1,5 @@
+1.What is the diagram mainly describing?
+A.array_list   B.flowchart   C.undirected_graph   D.binary_tree
+2.This diagram is of flowchart.
+True   False
+B,True

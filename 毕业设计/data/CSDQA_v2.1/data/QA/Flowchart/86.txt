@@ -1,0 +1,5 @@
+1.Which step is directly before “step 2”?
+A.step 1   B.begin   C.end   D.none
+2.The step “end” is the last step of the flowchart according to the diagram.
+True   False
+A,True

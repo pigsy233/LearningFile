@@ -1,0 +1,5 @@
+1.The index of 5 in the array?
+A.5   B.11   C.1   D.222
+2.You can find 46 in the array.
+True    False
+C,False

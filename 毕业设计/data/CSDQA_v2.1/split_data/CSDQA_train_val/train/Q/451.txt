@@ -1,0 +1,5 @@
+1.Which step is directly after “traversing module”?
+A.sound module   B.system control module   C.calibration module   D.none
+2.The step “calibration module” is directly after the step “system control module”.
+True   False
+A,True

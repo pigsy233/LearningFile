@@ -1,0 +1,9 @@
+1.What is the bottom element of the stack?
+A.A   B.B   C.C   D.D
+2.Element 3 has just been pushed into the stack.
+True    False
+3.How many empty elements are in the stack after a push operation?
+A.1   B.2   C.3   D.4
+4.The top and bottom of the stack are the same element.
+True    False
+A,False,B,False

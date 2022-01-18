@@ -1,0 +1,9 @@
+1.What is the element just pushed into the stack?
+A.E   B.2   C.A   D.b
+2.a is the bottom element of the stack.
+True    False
+3.At least how many pop operations are needed to pop element a?
+A.1   B.2   C.3   D.4
+4.Element a cannot be popped out of the stack before element b.
+True    False
+D,True,B,True

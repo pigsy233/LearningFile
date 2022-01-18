@@ -1,0 +1,5 @@
+1.The first element of the array?
+A.a1   B.a2   C.a3   D.a4
+2.The last content of the array is not a2.
+True    False
+A,True

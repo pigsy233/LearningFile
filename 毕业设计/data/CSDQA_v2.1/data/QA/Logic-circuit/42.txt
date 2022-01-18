@@ -1,0 +1,5 @@
+1.What Logic Gate is output port directly connected to？
+A.NOR   B.OR   C.AND   D.NOT
+2.The output will always be false if D input is false.
+True    False
+A,True

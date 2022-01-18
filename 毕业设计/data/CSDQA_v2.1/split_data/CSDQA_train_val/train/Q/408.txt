@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.flowchart   B.array_list   C.deadlock   D.directed_graph
+2.This is a directed_graph.
+True   False
+A,False

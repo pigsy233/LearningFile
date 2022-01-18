@@ -1,0 +1,5 @@
+1.The second value of the array is?
+A.5   B.2   C.3  D.6
+2.There exists ten values in the current array.
+True    False
+B,False

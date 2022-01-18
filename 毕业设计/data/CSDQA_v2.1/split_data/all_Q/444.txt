@@ -1,0 +1,5 @@
+1.What is the diagram mainly describing?
+A.directed_graph   B.array_list   C.flowchart   D.undirected_graph
+2.This is a flowchart.
+True   False
+C,True

@@ -1,0 +1,5 @@
+1.The last index of the array is?
+A.5   B.6   C.7  D.8
+2.The length of the current array is 3.
+True    False
+C,False

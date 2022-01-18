@@ -1,0 +1,5 @@
+1.What is after the step "no" ?
+A.yes   B.continue on as usual   C.do you have a problem?   D.none
+2.The diagram is mainly describing flowchart.
+True   False
+B,True

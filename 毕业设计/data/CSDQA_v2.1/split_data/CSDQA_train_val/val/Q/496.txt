@@ -1,0 +1,5 @@
+1.The value of the start node?
+A.1   B.2   C.3   D.A1
+2.You can not find A1 in the diagram.
+True    False
+D,False

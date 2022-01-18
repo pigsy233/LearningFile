@@ -1,0 +1,5 @@
+1.What is after the step "i=1"?
+A.a=mxi   B.i=i+1   C.neither   D.both
+2.The step before "a=mxi" is "i=1".
+True   False
+A,True

@@ -1,0 +1,5 @@
+1.The value of second node in the list?
+A.A   B.B   C.C   D.D
+2.You can find D in the current list.
+True    False
+A,False

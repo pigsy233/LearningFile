@@ -1,0 +1,5 @@
+1.What is the main content of this diagram?
+A.network_topology   B.deadlock   C.undirected_graph   D.array_list
+2.This diagram describes binary_tree.
+True   False
+B,False

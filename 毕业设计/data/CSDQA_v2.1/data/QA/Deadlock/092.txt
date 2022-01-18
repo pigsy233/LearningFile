@@ -1,0 +1,5 @@
+1.What concept is this diagram maintaining?
+A.flowchart   B.deadlock   C.undirected_graph   D.network_topology
+2.This diagram is describing the concept of deadlock.
+True   False
+B,True

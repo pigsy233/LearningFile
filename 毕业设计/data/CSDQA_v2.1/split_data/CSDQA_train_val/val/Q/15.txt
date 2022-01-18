@@ -1,0 +1,5 @@
+1.The first value in the list?
+A.9   B.6   C.2   D.13
+2.The index of 91 is 5.
+True    False
+C,False

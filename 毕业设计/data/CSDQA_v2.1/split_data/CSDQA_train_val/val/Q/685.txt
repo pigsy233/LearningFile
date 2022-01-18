@@ -1,0 +1,5 @@
+1.What is the type of topology in the graph?
+A.Tree   B.Bus   C.Ring   D.Star
+2.Six devices are connected in the graph.
+True    False
+C,True

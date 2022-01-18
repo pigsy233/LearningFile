@@ -1,0 +1,5 @@
+1.The total length of the current list is?
+A.1   B.2   C.n  D.3
+2.The size of the current list is not n.
+True    False
+C,False

@@ -1,0 +1,5 @@
+1.How many devices in the graph?
+A.2   B.3   C.4   D.5
+2.The LAN port ip address is 192.168.1.1 in the graph.
+True    False
+B,True

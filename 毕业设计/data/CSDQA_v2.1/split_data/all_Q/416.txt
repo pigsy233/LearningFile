@@ -1,0 +1,5 @@
+1.What is the step before "no problem"?
+A.should it?   B.does it move?   C.no problem   D.none
+2.This is a diagrma of deadlock.
+True   False
+A,False

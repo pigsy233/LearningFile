@@ -1,0 +1,5 @@
+1.The value of first node in the current list?
+A.p   B.a   C.b   D.c
+2.You can find p in the linked list.
+True    False
+A,True

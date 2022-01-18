@@ -1,0 +1,5 @@
+1.The index of the front value of the array is?
+A.1   B.0   C.2  D.3
+2.You cannot store 5 values in the current array.
+True    False
+B,False

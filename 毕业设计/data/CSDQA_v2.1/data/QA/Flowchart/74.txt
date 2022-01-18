@@ -1,0 +1,5 @@
+1.Which step is directly after the step “process step 4”?
+A.a   B.process step 3   C.process step 5   D.process step 6
+2.The last step of this flowchart is “end”.
+True   False
+C,True

@@ -1,0 +1,5 @@
+1.The last value in the list is?
+A.23   B.15   C.10   D.12
+2.You can not delete 10 in the current linked list.
+True    False
+D,False

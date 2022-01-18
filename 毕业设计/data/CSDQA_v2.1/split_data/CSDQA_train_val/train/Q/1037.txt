@@ -1,0 +1,9 @@
+1.How many empty elements are in the stack?
+A.0   B.3   C.2   D.1
+2.This is an empty stack.
+True    False
+3.At least how many pop operations are needed to pop element 1?
+A.1   B.2   C.3   D.4
+4.Element 2 will not pop out of the stack before element 1.
+True    False
+A,False,C,False

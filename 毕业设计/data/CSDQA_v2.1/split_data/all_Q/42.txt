@@ -1,0 +1,5 @@
+1.The length of the array?
+A.5   B.11   C.10   D.21
+2.The last index in the array is 2.
+True    False
+C,False

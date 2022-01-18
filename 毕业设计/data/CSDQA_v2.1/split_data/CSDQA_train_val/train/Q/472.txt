@@ -1,0 +1,5 @@
+1.The insert value in the list is?
+A.23   B.15   C.10   D.7
+2.You can delete 10 before insert.
+True    False
+C,False

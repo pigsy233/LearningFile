@@ -1,0 +1,5 @@
+1.The size of the array?
+A.15   B.6   C.9   D.10
+2.This is not a completely sorted array.
+True    False
+C,False

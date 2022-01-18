@@ -1,0 +1,5 @@
+1.The second value in the list?
+A.9   B.6   C.5   D.13
+2.23 is the former element of 16.
+True    False
+C,False

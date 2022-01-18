@@ -1,0 +1,9 @@
+1.How many elements are there in the stack?
+A.1   B.2   C.3   D.4
+2.A push operation is in progress.
+True    False
+3.How many elements remain in the stack after the push operation?
+A.1   B.2   C.3   D.0
+4.There are 2 elements in the stack after the push operation.
+True    False
+B,True,C,False

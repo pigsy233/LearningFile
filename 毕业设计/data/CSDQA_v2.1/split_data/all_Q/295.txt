@@ -1,0 +1,5 @@
+1.What content is in this diagram?
+A.non_binary_tree   B.array_list   C.flowchart   D.deadlock
+2.This diagram describes deadlock.
+True   False
+D,True

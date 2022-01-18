@@ -1,0 +1,5 @@
+1.How many elements are there in the list?
+A.5   B.11   C.1   D.222
+2.You can find 46 in the array.
+True    False
+C,False

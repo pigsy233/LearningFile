@@ -1,0 +1,5 @@
+1.How many AND Gates does the circuit have？
+A.0   B.1   C.2   D.3
+2.The output will always be true.
+True    False
+A,True

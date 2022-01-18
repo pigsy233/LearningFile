@@ -1,0 +1,5 @@
+1.What is thread-2 requesting for?
+A.rsrc-b   B.rsrc-a   C.rsrc-a and rsrc-b   D.neither
+2.Thread-1 is requesting rsrc-B.
+True   False
+B,True

@@ -1,0 +1,5 @@
+1.How many elements in the array?
+A.9   B.5   C.10   D.13
+2.You can not search 20 in the array.
+True    False
+A,False

@@ -1,0 +1,5 @@
+1.What is after the step "sum=sum+i"?
+A.i=i+1   B.sum=0   C.i=1   D.none
+2.The step after "sum=0" is "i=1".
+True   False
+A,False

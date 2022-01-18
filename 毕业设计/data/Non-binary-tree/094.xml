@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Non-binary-tree</folder>
+	<filename>094.png</filename>
+	<path>C:\Users\11252\Desktop\diagram\Non-binary-tree\094.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1242</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>second level</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>316</ymin>
+			<xmax>1190</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>answer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>586</xmin>
+			<ymin>28</ymin>
+			<xmax>663</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

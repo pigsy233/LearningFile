@@ -1,0 +1,5 @@
+1.The second content of the list?
+A.2   B.3   C.4   D.5
+2.There are two elements in the list.
+True    False
+B,False

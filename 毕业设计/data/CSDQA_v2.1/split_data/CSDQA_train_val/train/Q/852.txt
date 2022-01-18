@@ -1,0 +1,5 @@
+1.What is the content of root node?
+A.a  B.b   C.c   D.d
+2.The content of root node is a number.
+True    False
+A,False

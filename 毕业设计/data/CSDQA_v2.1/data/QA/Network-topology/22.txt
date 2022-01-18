@@ -1,0 +1,5 @@
+1. What does the object like a cloud points to ?
+A. Internet B.Computer C.Phone D.Switch
+2. It is a star topology
+True False
+A,True

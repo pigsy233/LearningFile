@@ -1,0 +1,5 @@
+1.The first element of the array?
+A.1   B.6   C.9   D.10
+2.1 is bigger than 5 in the array.
+True    False
+A,False

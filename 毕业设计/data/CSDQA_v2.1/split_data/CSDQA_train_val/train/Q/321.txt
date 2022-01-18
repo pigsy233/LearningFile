@@ -1,0 +1,5 @@
+1.How many nodes are there in the graph?
+A.less than 4   B.5   C.6   D.more than 7
+2.There is more than one node with three edges in the graph.
+True    False
+B,True

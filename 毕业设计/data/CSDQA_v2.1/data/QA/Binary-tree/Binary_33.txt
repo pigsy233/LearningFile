@@ -1,0 +1,9 @@
+1.What is the second node of the binary tree traversed in in order？
+A.61   B.87   C.1   D.7
+2.This binary tree is a complete binary tree.
+True    False
+3.How many child nodes can the node 87 have at most?
+A.1   B.5   C.2   D.4
+4.The node 61 can have another 1 child node.
+True    False
+B,False,C,True

@@ -1,0 +1,5 @@
+1.What is p3 waiting for?
+A.p4   B.t2   C.t1   D.t3
+2.T2 is owned by p4.
+True   False
+D,False

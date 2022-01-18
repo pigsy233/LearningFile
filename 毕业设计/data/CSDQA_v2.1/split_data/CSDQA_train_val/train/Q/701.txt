@@ -1,0 +1,5 @@
+1. What is the black object in the picture ?
+A. Computer B.Router C.Central Hub D.phone
+2. It is a star topology.
+True False
+C,True 

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Network-topology</folder>
+	<filename>9.png</filename>
+	<path>C:\Users\lenovo\Desktop\diagram\Network-topology\9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>361</width>
+		<height>306</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>105</ymin>
+			<xmax>211</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>star topology</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>20</ymin>
+			<xmax>332</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

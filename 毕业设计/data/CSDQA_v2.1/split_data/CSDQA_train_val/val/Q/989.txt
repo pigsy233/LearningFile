@@ -1,0 +1,9 @@
+1.What is the content of the element at the top of the stack?
+A.1   B.2   C.3   D.4
+2.There are 4 elements in the stack.
+True    False
+3.How many elements are in the stack after a push operation?
+A.1   B.2   C.3   D.4
+4.The pop operation cannot be performed now.
+True    False
+A,False,B,False

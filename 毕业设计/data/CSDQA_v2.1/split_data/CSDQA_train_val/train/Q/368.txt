@@ -1,0 +1,5 @@
+1.What is after step “Lamp doesn’t work” ?
+A.lamp plugged in?   B.plug in lamp   C.replace bulb   D.repair lamp
+2.This is a diagram of flowchart.
+True   False
+A,True

@@ -1,0 +1,9 @@
+1.What is the content of the element at the top of the stack?
+A.10   B.2   C.30   D.1
+2.A pop operation just performed.
+True    False
+3.Which address will the Top element point to after a push operation?
+A.a[0]   B.a[1]   C.a[2]   D.a[3]
+4.The top and bottom of the stack are the same element.
+True    False
+B,True,C,False

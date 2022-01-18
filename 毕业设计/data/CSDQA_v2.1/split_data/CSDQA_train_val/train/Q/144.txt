@@ -1,0 +1,9 @@
+1.What is the forth node of the binary tree traversed in in order？
+A.47   B.50   C.30   D.60
+2.This binary tree is a binary search tree.
+True    False
+3.At least how many more nodes need to be added to this tree to become a complete binary tree?
+A.0   B.1   C.3   D.4
+4.The node 50 can have 2 more child nodes.
+True    False
+A,True,B,False

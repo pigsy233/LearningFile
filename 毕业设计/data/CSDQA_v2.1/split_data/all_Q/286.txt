@@ -1,0 +1,5 @@
+1.What is transB blocked by?
+A.transg   B.transf   C.transc   D.transe
+2.TransA is blocked by transE.
+True   False
+D,False

@@ -1,0 +1,5 @@
+1.How many nodes are there around Central Device in the graph?
+A.3   B.4   C.5   D.6
+2.The type of topology is star in the graph.
+True    False
+D,True

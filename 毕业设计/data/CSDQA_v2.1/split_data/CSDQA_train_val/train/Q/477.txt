@@ -1,0 +1,5 @@
+1.The total number of the values in the list is?
+A.a   B.b   C.n   D.c
+2.Xiao Ming can search a1 in the current linked list.
+True    False
+C,True

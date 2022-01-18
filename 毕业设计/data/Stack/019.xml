@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Stack</folder>
+	<filename>019.png</filename>
+	<path>C:\Users\lenovo\Desktop\Stack\019.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>107</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>element</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>74</ymin>
+			<xmax>77</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>push operation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>152</ymin>
+			<xmax>76</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

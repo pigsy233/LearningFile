@@ -1,0 +1,5 @@
+1.The current size of the list is?
+A.7   B.1   C.2  D.3
+2.The first value of the current list is 0.
+True    False
+A,False

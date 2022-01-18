@@ -1,0 +1,5 @@
+1.The first number in the array is?
+A.12   B.43   C.76   D.45
+2.The second value of the array is not 83.
+True    False
+C,False

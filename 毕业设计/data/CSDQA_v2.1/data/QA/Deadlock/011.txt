@@ -1,0 +1,5 @@
+1.What is process 2 waiting for?
+A.resource 2   B.nothing   C.OS   D.resource 1
+2.This is a diagram of deadlock in OS.
+True   False
+D,True
